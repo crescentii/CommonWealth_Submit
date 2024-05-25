@@ -3644,7 +3644,7 @@ Affinity Propagation is a clustering algorithm that identifies exemplars by pass
 
 (This figure shows CELOchain transactions sent by Binance and number between 0.9 ~ 1.1)
 
-By monitoring the withdrawal operations from the Binance exchange on the CELO chain(shows above), I found that a large number of abnormal behaviors occurred on the chain from June 5th to June 16th and July 19th on 2023.(withdrawing ~1CELO from the exchange, and then conducting layerzero transactions). I set the Origin dataset Filter condition to this time period, the sender's tag is Tether-Binance, the transaction amount is 0.9-1.1CELO, and I got about 10,000 pieces of data.
+By monitoring the withdrawal operations from the Binance exchange on the CELO chain(shows above), I found that a large number of abnormal behaviors occurred on the chain from June 5th to June 16th and July 19th on 2023.(withdrawing ~1CELO from the exchange, and then conducting layerzero transactions). I set the Origin dataset Filter condition to this time period, the sender's tag is Tether-Binance, the transaction amount is 0.9-1.1CELO, and I got about 15,000 pieces of data.
 
 Origin dataset filter condition: 
 - Celochain transaction sent by Tether: Binance(0xf64368...)
