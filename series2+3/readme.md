@@ -3664,8 +3664,8 @@ Note：the multichain wallet balance$(from debank api) snapshot time:
 ## Data processing
 In the data processing, I used the affinity propation algorithm four times to identify the data. After each identification, clusters with less than 20 samples were eliminated, and each identification and filtering process had different goals. After four times identify and filter, we have the final data, see [processed_data1](final_output1.csv), [processed_data2](final_output2.csv) and [processed_data3](final_output3.csv). 
 
-### Genesis Filter
-This action is to Filter addresses that have been marked as witches.
+### Genesis filter
+This action is to filter addresses that have been marked as witches.
 
 ### First filter(initial filter)
 The set Affinity Propagation feature parameters are
@@ -4331,7 +4331,7 @@ batch7 is liking batch1,2,3,4,56. just different with sendChain number or OAPPS 
 ![batch1-7](image1/batch7.png)
 
 ---
-**batch8**
+**batch1-8**
 ```
 0x03b1a1632cbbe330ddee0fb8b734eebebe8f372d
 0x3fcfbb85fb08f1cfa68645ae6f85253af3ac0ecd
