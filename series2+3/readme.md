@@ -3654,7 +3654,7 @@ Origin dataset filter condition:
   - dataset2: between June-3-2023 and June-9-2023
   - dataset3: between June-10-2023 and June-16-2023
 
-Next, I used the transaction data provided by Layerzero to obtain the _'Number of LZ tx' 'Projects' 'Total LZ Volume $' 'Average LZ Volume $' 'Number of OAPPS' 'Number of Sendchian' 'Number of Chian'_ and **the _multichain wallet balance_ of each address were obtained through Debank**. dataset is [dataset1](dataset1.csv), [dataset2](dataset2.csv) and [dataset3](dataset3.csv).
+Next, I used the transaction data provided by Layerzero to obtain the _'Number of LZ tx' 'Projects' 'Total LZ Volume $' 'Average LZ Volume $' 'Number of OAPPS' 'Number of Sendchian' 'Number of Chian'_ and **the _multichain wallet balance_ of each address were obtained through Debank**. The final dataset is here [dataset1](dataset1.csv), [dataset2](dataset2.csv) and [dataset3](dataset3.csv).
 
 Note：the multichain wallet balance$(from debank api) snapshot time: 
 - dataset1: around May-23-2024 11:30PM UTC+8
