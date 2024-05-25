@@ -2896,7 +2896,7 @@ You can get report address here [batches1](address.csv), [batches2](address.csv)
 # Description
 The Affinity Propagation algorithm is used to filter suspicious data four times, strictly reducing false positive samples, and the filtered cluster address data is highly similar. To reduce the possibility of false positive samples, I also manually checked most addresses in submitted cluster. In order to be sufficiently convincing, evidence of the homogenization operation of each cluster address on the entire chain is also provided.
 
-In the address screening, **special attention is paid to the number of decimal places in funding. Since the handling fee for withdrawing CELO from the Binance is 0.001, Funding transactions with more than 3 decimal places are suspicious.**
+In the address screening, **special attention is paid to the number of decimal places in funding. Since the handling fee for withdrawing CELO from the Binance is 0.001, and normal users will not be bored enough to enter too many decimal places, SP funding transactions with more than 3 decimal places are suspicious.**
 
 # Detailed Methodology & Walkthrough
 Affinity Propagation is a clustering algorithm that identifies exemplars by passing "responsibility" and "availability" messages between data points. It automatically determines the number of clusters based on a preference parameter and similarity matrix, without requiring the number of clusters to be specified beforehand. I have tried many cluster analysis methods and found this method to be the most useful and effective.
