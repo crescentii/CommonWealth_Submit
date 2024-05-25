@@ -1,6 +1,6 @@
 # Reported Addresses
 
-You can get report address here [batches1](address.csv), [batches2](address.csv) and [batches3](address.csv) or the following.
+You can get report address here [batches1](address1.csv), [batches2](address2.csv) and [batches3](address3.csv) or the following.
 
 ```
 0x0d4b771e25aa007366135e66e38ba02151d0257b
@@ -3660,7 +3660,7 @@ Note：the multichain wallet balance$(from debank api) snapshot time:
 - dataset3: around May-20-2024 00:30PM UTC+8
 
 ## Data processing
-In the data processing, I used the affinity propation algorithm four times to identify the data. After each identification, clusters with less than 20 samples were eliminated, and each identification and filtering process had different goals. After four times identify and filter, we have the final data, see [processed_data1](processed_data1.csv), [processed_data2](processed_data2.csv) and [processed_data3](processed_data3.csv). 
+In the data processing, I used the affinity propation algorithm four times to identify the data. After each identification, clusters with less than 20 samples were eliminated, and each identification and filtering process had different goals. After four times identify and filter, we have the final data, see [processed_data1](final_output1.csv), [processed_data2](final_output2.csv) and [processed_data3](final_output3.csv). 
 
 ### Genesis Filter
 This action is to Filter addresses that have been marked as witches.
