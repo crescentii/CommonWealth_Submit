@@ -1,13 +1,13 @@
 # Reported Addresses
 
-You can get report address here [batches1](address1.csv), [batches2](address2.csv) and [batches3](address3.csv) or the following.
+This is my second time to submit report. Compared to the first series, in this report, I optimized my screening process, modified the data source, and added more fields to prove the witch address. You can get report address here [batches1](address1.csv), [batches2](address2.csv) and [batches3](address3.csv) or the following.
 
 ```
 
 ```
 
 # Description
-The Affinity Propagation algorithm is used to filter suspicious data four times, strictly reducing false positive samples, and the filtered cluster address data is highly similar. To reduce the possibility of false positive samples, I also manually checked most addresses in submitted cluster. In order to be sufficiently convincing, evidence of the homogenization operation of each cluster address on the entire chain is also provided.
+The Affinity Propagation algorithm is used to filter suspicious data **five** times, strictly reducing false positive samples, and the filtered cluster address data is highly similar. To reduce the possibility of false positive samples, I also manually checked most addresses in submitted cluster. In order to be sufficiently convincing, evidence of the homogenization operation of each cluster address on the entire chain is also provided.
 
 In the address screening, **special attention is paid to the number of decimal places in funding. Since the handling fee for withdrawing CELO from the Binance is 0.001, and normal users will not be bored enough to enter too many decimal places, So funding transactions with more than 3 decimal places are suspicious.**
 
@@ -20,25 +20,29 @@ Affinity Propagation is a clustering algorithm that identifies exemplars by pass
 
 (This figure shows CELOchain transactions sent by Binance and number between 0.9 ~ 1.1)
 
-By monitoring the withdrawal operations from the Binance exchange on the CELO chain(shows above), I found that a large number of abnormal behaviors occurred on the chain from June 5th to June 16th and July 19th on 2023.(withdrawing ~1CELO from the exchange, and then conducting layerzero transactions). I set the Origin dataset Filter condition to this time period, the sender's tag is Tether-Binance, the transaction amount is 0.9-1.1CELO, and I got about 15,000 pieces of data.
+![0.9-1.1CELO sent by binance from 2023-4-1 to 2024-4-1](0.9-1.1CELO_sent_by_binance.png)
+
+(This figure shows CELOchain transactions sent by Binance and number between 1.9 ~ 2.1)
+
+By monitoring the withdrawal operations from the Binance exchange on the CELO chain(shows above), I found that a large number of abnormal behaviors occurred on the chain from July 24th to July 26th and July 18th to Aug 10th on 2023.(withdrawing ~1CELO or ~2CELO from the exchange, and then conducting layerzero transactions). I set the Origin dataset Filter condition to this time period, the sender's tag is Tether-Binance, the transaction amount is 0.9-1.1CELO or 1.9-2.1, and I got about 15,000 pieces of data.
 
 Origin dataset filter condition: 
 - Celochain transaction sent by Tether: Binance(0xf64368...)
-- The amount of CELO traded is 0.9-1.1
+- The amount of CELO traded is:
+  - dataset1: between 0.9-1.1
+  - dataset2: between 1.9-2.1
 - Transaction time:
-  - dataset1: on July-19-2023
-  - dataset2: between June-3-2023 and June-9-2023
-  - dataset3: between June-10-2023 and June-16-2023
+  - dataset1: between July-24-2023 and July-26-2023
+  - dataset2: between July-18-2023 and Aug-10-2023
 
-Next, I used the transaction data provided by Layerzero to obtain the _'Number of LZ tx' 'Projects' 'Total LZ Volume $' 'Average LZ Volume $' 'Number of OAPPS' 'Number of Sendchian' 'Number of Chian'_ and **the _multichain wallet balance_ of each address were obtained through Debank**. The final dataset is here [dataset1](dataset1.csv), [dataset2](dataset2.csv) and [dataset3](dataset3.csv).
+Next, I used the transaction data provided by Layerzero to obtain the _'Number of LZ tx' 'Projects' 'Total LZ Volume $' 'Average LZ Volume $' 'Number of OAPPS' 'Number of Sendchian' 'Number of Chian'_ and EarliestLZdata. The initial dataset is here [initial_dataset1](add_lzdata1.csv), [initial_dataset2](add_lzdata2.csv) and [initial_dataset3](dataset3.csv).
 
 Note：the multichain wallet balance$(from debank api) snapshot time: 
-- dataset1: around May-23-2024 11:30PM UTC+8
-- dataset2: around May-21-2024 11:30PM UTC+8
-- dataset3: around May-20-2024 00:30PM UTC+8
+- dataset1: around May-24-2024 11:30PM UTC+8
+- dataset2: around May-26-2024 1:30PM UTC+8
 
 ## Data processing
-In the data processing, I used the affinity propation algorithm four times to identify the data. After each identification, clusters with less than 20 samples were eliminated, and each identification and filtering process had different goals. After four times identify and filter, we have the final data, see [processed_data1](final_output1.csv), [processed_data2](final_output2.csv) and [processed_data3](final_output3.csv). 
+In the data processing, I used the affinity propation algorithm **five** times to identify the data. After each identification, clusters with less than 20 samples were eliminated, and each identification and filtering process had different goals.
 
 ### Genesis filter
 This action is to filter addresses that have been marked as witches.
@@ -46,30 +50,41 @@ This action is to filter addresses that have been marked as witches.
 ### First filter(initial filter)
 The set Affinity Propagation feature parameters are
 ```python
-features = ['Number of LZ tx', 'Average LZ Volume $', 'Number of OAPPS', 'Number of Chian', 'Onmichain Balance$']
+features = ['Number of LZ tx', 'Average LZ Volume $', 'Number of OAPPS', 'Number of Chian']
 ```
 After obtaining the clustering results, if the number of a certain cluster is less than 20, the cluster will be deleted. This step resulted in the deletion of addresses that had not traded layerzero and real-person accounts that had no problems at all.
 
 ### Second filter
 The set Affinity Propagation feature parameters are
 ```python
-features = ['Number of LZ tx', 'Total LZ Volume $', 'Average LZ Volume $', 'Number of OAPPS', 'Number of Sendchian','Number of Chian', 'Onmichain Balance$']
+features = ['Number of LZ tx', 'Total LZ Volume $', 'Average LZ Volume $', 'Number of OAPPS', 'Number of Sendchian','Number of Chian']
 ```
 This is the first comprehensive cluster analysis. After the analysis, clusters with less than 20 counts are again eliminated.
 
 ### Third filter
 The set Affinity Propagation feature parameters are
 ```python
-features = ['Number of Sendchian','Number of Chian', 'Onmichain Balance$']
+features = ['Number of Sendchian','Number of Chian']
 ```
-This clustering analysis reduces the dimensionality of the input parameters, especially focusing on wallet balances. By eliminating clusters with less than 20 counts, this step will eliminate real users whose wallets have larger balances (even though they may not be trustworthy). ). The consideration for this step is that Witch accounts generally do not hold large balances.
+This clustering analysis reduces the dimensionality of the input parameters.
 
 ### Fourth filter(final filter)
 The set Affinity Propagation feature parameters are
 ```python
+features = ['Funding block','Funding Amount[CELO]','Number of LZ tx','Total LZ Volume $','Average LZ Volume $','Number of OAPPS','Number of Sendchian','Number of Chian']
+```
+The input of the last clustering algorithm is intial all available parameters of the initial dataset, and it attempts to divide the dataset into as many clusters as possible. Similarly, clusters with less than 20 internal members will be deleted. This way we get the final output data.
+After 4 times of cluster filtering, we now have preliminary processing results, which are [initial_output1](initial_output1.csv), [initial_output2](initial_output2.csv) and [initial_output3](initial_output3.csv). 
+
+### Fifth filter(universal filter)
+Here we will show a big killer: multichain wallet balance. In the results obtained after the above 4 times of filtering, I obtained the multichain wallet balances of all addresses in the results through Debank, and then performed a full-data clustering filter, which will greatly reduce the probability of false positive samples. You can get final dataset here: [final_dataset1](dataset1.csv), [final_dataset2](dataset2.csv) and [final_dataset3](dataset3.csv).
+
+The set Affinity Propagation feature parameters are
+```python
 features = ['Funding block','Funding Amount[CELO]','Number of LZ tx','Total LZ Volume $','Average LZ Volume $','Number of OAPPS','Number of Sendchian','Number of Chian', 'Onmichain Balance$','Onmichain Balance$']
 ```
-The input of the last clustering algorithm is all available parameters of the dataset, and it attempts to divide the dataset into as many clusters as possible. Similarly, clusters with less than 20 internal members will be deleted. This way we get the final output data.
+
+After five times identify and filter, we have the final data, see [processed_data1](final_output1.csv), [processed_data2](final_output2.csv) and [processed_data3](final_output3.csv). 
 
 ### More ways to remove false positive samples
 To provide further evidence, I will provide each cluster address with a large-scale homogenization operation different from  filter source in table (such as a large-scale homogenization withdrawal from the exchange again)
