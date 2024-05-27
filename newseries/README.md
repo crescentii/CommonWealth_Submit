@@ -7474,18 +7474,6 @@ In addition to accepting CELO in batches on the CELO chain on June 14th. **This 
 **Data at a glance**
 ![batch3-27](image3/batch27.png)
 
----
-**batch3-20**
-```
-
-```
-
-**Extra evidence**
-
-In addition to accepting CELO in batches on the CELO chain on June 13th. **This batch of addresses also accepted approximately 3.9CORE sent by 0xcFE2B8(unknown CEX) then bridged USDT** at around 2023-05-25T20:45:10. Same fund allocation for Omnichain wallets. Too many decimal places.
-
-**Data at a glance**
-![batch3-20](image3/batch20.png)
 
 # Reward Address (If Eligible)
 0xfa8d0fc1c3fc17396ace8758079b42ec2dc7bd79
