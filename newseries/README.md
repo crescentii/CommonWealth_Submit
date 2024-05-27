@@ -7412,6 +7412,7 @@ In addition to accepting CELO in batches on the CELO chain on June 13th. **This 
 
 **Data at a glance**
 ![batch3-26](image3/batch26.png)
+![batch3-26-2](image3/batch26-2.png)
 
 ---
 **batch3-27**
