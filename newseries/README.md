@@ -3412,7 +3412,7 @@ The set Affinity Propagation feature parameters are
 features = ['Funding block','Funding Amount[CELO]','Number of LZ tx','Total LZ Volume $','Average LZ Volume $','Number of OAPPS','Number of Sendchian','Number of Chian', 'Onmichain Balance$','Onmichain Balance$']
 ```
 
-After five times identify and filter, we have the final data, see [final_output1](final_output1.csv), [processed_data2](final_output2.csv) and [processed_data3](final_output3.csv). 
+After five times identify and filter, we have the final data, see [final_output1](final_output1.csv), [final_output2](final_output2.csv) and [final_output3](final_output3.csv). 
 
 ### More ways to remove false positive samples
 To provide further evidence, I will provide each cluster address with a large-scale homogenization operation different from  filter source in table (such as a large-scale homogenization withdrawal from the exchange again)
