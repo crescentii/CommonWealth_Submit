@@ -1648,22 +1648,30 @@ Affinity Propagation is a clustering algorithm that identifies exemplars by pass
 
 (This figure shows CELOchain transactions sent by Binance and number between 1.9 ~ 2.1)
 
-By monitoring the withdrawal operations from the Binance exchange on the CELO chain(shows above), I found that a large number of abnormal behaviors occurred on the chain from July 24th to July 26th and July 18th to Aug 10th on 2023.(withdrawing ~1CELO or ~2CELO from the exchange, and then conducting layerzero transactions). I set the Origin dataset Filter condition to this time period, the sender's tag is Tether-Binance, the transaction amount is 0.9-1.1CELO or 1.9-2.1, and I got about 15,000 pieces of data.
+![0.9-1.1CELO sent by binance from 2023-4-1 to 2024-4-1](0.9-1.1CELO_sent_by_binance.png)
+
+(This figure shows CELOchain transactions sent by Binance and number between 0.4 ~ 0.6)
+
+
+By monitoring the withdrawal operations from the Binance exchange on the CELO chain(shows above), I found that a large number of abnormal behaviors occurred on the chain from July 24th to July 26th, July 18th to Aug 10th and june 10th to june 17th on 2023.(withdrawing ~1CELO or ~2CELO or ~0.5CELO from the exchange, and then conducting layerzero transactions). I set the Origin dataset Filter condition to this time period, the sender's tag is Tether-Binance, the transaction amount is 0.9-1.1CELO or 1.9-2.1 or 0.4-0.6, and I got about 25,000 pieces of data.
 
 Origin dataset filter condition: 
 - Celochain transaction sent by Tether: Binance(0xf64368...)
 - The amount of CELO traded is:
   - dataset1: between 0.9-1.1
   - dataset2: between 1.9-2.1
+  - dataset3: between 0.4-0.6
 - Transaction time:
   - dataset1: between July-24-2023 and July-26-2023
   - dataset2: between July-18-2023 and Aug-10-2023
+  - dataset3: between Jun-10-2023 and Jun-16-2023
 
 Next, I used the transaction data provided by Layerzero to obtain the _'Number of LZ tx' 'Projects' 'Total LZ Volume $' 'Average LZ Volume $' 'Number of OAPPS' 'Number of Sendchian' 'Number of Chian'_ and EarliestLZdata. The initial dataset is here [initial_dataset1](add_lzdata1.csv), [initial_dataset2](add_lzdata2.csv) and [initial_dataset3](dataset3.csv).
 
 Note：the multichain wallet balance$(from debank api) snapshot time: 
 - dataset1: around May-24-2024 11:30PM UTC+8
 - dataset2: around May-26-2024 1:30PM UTC+8
+- dataset3: around May-27-2024 11:00AM UTC+8
 
 ## Data processing
 In the data processing, I used the affinity propation algorithm **five** times to identify the data. After each identification, clusters with less than 20 samples were eliminated, and each identification and filtering process had different goals.
