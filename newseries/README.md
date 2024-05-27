@@ -1,6 +1,8 @@
 # Reported Addresses
 
-This is my second time to submit report. Compared to the first series, in this report, I optimized my screening process, modified the data source, and added more fields to prove the witch address. You can get report address here [batches1](address1.csv), [batches2](address2.csv) and [batches3](address3.csv) or the following.
+This is my second time to submit report. Compared to the first series, in this report, I optimized my screening process, modified the data source, and added more fields to prove the witch address. You can get report address here [report address](address.csv) or the following.
+
+This report have 3,298 address and 54 batches.
 
 ```
 0x697e20307552031db4827402cb7a0fac972e3fce
