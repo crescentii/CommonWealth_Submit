@@ -3305,22 +3305,33 @@ _This is my second time to submit report. Compared to the first series, in this 
 
 _This report have 3,298 address and 54 batches._
 
-_Note:In the address screening, **special attention is paid to the number of decimal places in funding. Since the handling fee for withdrawing CELO from the Binance is 0.001, and normal users will not be bored enough to enter too many decimal places, So funding transactions with more than 3 decimal places are suspicious.**_
+Witch hunting can be simply understood as a classification task in the field of machine learning. However, whether utilizing traditional machine learning algorithms or the currently popular neural networks, the emergence of false positive samples is inevitable. In the previous stage, Nansen led the preliminary judgment of witch addresses, achieving a remarkably low error rate.
 
-Witch hunting can be simply understood as a classification task in the field of machine learning. However, whether it is a traditional machine learning algorithm or the now popular neural network, the emergence of false positive samples is inevitable. In the previous stage, Nansen took the lead in completing the preliminary judgment of the witch address and obtained a very low error rate result.
+Given my understanding of my own capabilities, I realized it would be impossible for me to achieve results comparable to Nansen's on a large-scale dataset. Therefore, I turned to another approach to identify witch addresses while ensuring a sufficiently low false positive probability:
+- Narrowing down the sample to periods of frequent witch activity and specific blockchains (CELO chain);
+- Employing small-scale clustering algorithms (Affinity Propagation) to group witch clusters;
+- Using Debank's full-chain wallet balance to thoroughly filter out real user addresses;
+- Implementing multiple filtering stages (I used Affinity Propagation five times, eliminating clusters with fewer than 20 samples after each - clustering analysis);
+- Conducting manual screening and verification after the algorithmic filtering, providing additional witch evidence.
 
-Given what I knew about my own capabilities, I thought it was impossible for me to achieve results comparable to Nansen on a large-scale data set, so I turned to another area to seek to find witch addresses while ensuring a low enough false positive probability: 
-- Dividing the sample Narrow down to the time period and specific blockchain where witch activity is frequent;
-- Use small-scale clustering algorithms(Affinity propagation) to cluster witch clusters;
-- Use debank's full-chain wallet balance to more fully filter real user addresses;
-- Multiple filtering (actually I used affinity propagation 5 times, and clusters with less than 20 samples were eliminated after each clustering algorithm analysis)
-- After the algorithm completes the screening, manual screening and verification are performed again, and additional witch evidence is given.
+_Note: In the address screening process, special attention is given to the number of decimal places in funding transactions. Since the withdrawal fee for CELO from Binance is 0.001, **it is unlikely that normal users would enter transactions with excessive decimal places. Therefore, funding transactions with more than three decimal places are deemed suspicious.**_
 
-To be honest, in order to ensure sufficient accuracy, I spent a lot of time manually screening the witch clusters. I have been doing this since the beginning of the second phase of Operation Prey, and the Affinity propagation algorithm has been around two thousand Only the data set with strip addresses has very good results. When there is too much data, it is very easy to fail to classify a large cluster together, which caused me a lot of extra trouble. 
-However, at least judging from the results, I think I got very good results for the Witch cluster. **These cluster addresses not only have the suspicious same withdrawal action on the CELO chain, have the almost same data on the Layerzero protocol, but also have a coordinated action besides the above (additional evidence provided by me).** You can easily identify these witch addresses by looking at the pictures I have provided. Let's get started now.
+In order to ensure sufficient accuracy, I spent considerable time manually screening the witch clusters. I have been diligently working on this since the onset of the second phase of Operation Prey. Utilizing the Affinity Propagation algorithm on a dataset with around two thousand strip addresses yielded excellent results. However, with larger datasets, the algorithm often failed to classify large clusters correctly, causing me significant additional trouble. 
+
+However, judging by the results, I believe I achieved very satisfactory outcomes for the Witch cluster. These cluster addresses exhibit not only the suspiciously identical withdrawal actions on the CELO chain and nearly identical data on the LayerZero protocol, but also show coordinated activities beyond these actions (with additional evidence provided by me). You can easily identify these witch addresses by examining the pictures I have provided. Let's get started now.
 
 # Detailed Methodology & Walkthrough
-Affinity Propagation is a clustering algorithm that identifies exemplars by passing "responsibility" and "availability" messages between data points. It automatically determines the number of clusters based on a preference parameter and similarity matrix, without requiring the number of clusters to be specified beforehand. I have tried many cluster analysis methods and found this method to be the most useful and effective.
+
+_Affinity Propagation is a clustering algorithm that identifies exemplars by passing "responsibility" and "availability" messages between data points. It automatically determines the number of clusters based on a preference parameter and similarity matrix, without requiring the number of clusters to be specified beforehand. I have tried many cluster analysis methods and found this method to be the most useful and effective._
+
+The workflow can be briefly summarized as:
+1. Download Celochain transactions transfered from Binance Exchange and filtered with a specific time period and specific token number range.
+2. Filter addresses that have been officially identified as witches.
+3. Retrieve the LayerZero data for the remaining addresses.
+4. Use the affinity propagation algorithm four times and filter clusters with fewer than 20 samples after each classification.
+5. Use the Debank API to obtain the full-chain wallet balance and the balance of a specific chain for the remaining addresses.
+6. Use the affinity propagation algorithm again to perform cluster analysis and filter out clusters with fewer than 20 samples.
+7. Manually inspect each cluster and search for additional evidence.
 
 ## Dataset
 
@@ -3328,16 +3339,16 @@ Affinity Propagation is a clustering algorithm that identifies exemplars by pass
 
 (This figure shows CELOchain transactions sent by Binance and number between 0.9 ~ 1.1)
 
-![0.9-1.1CELO sent by binance from 2023-4-1 to 2024-4-1](0.9-1.1CELO_sent_by_binance.png)
+![1.9-2.1CELO sent by binance from 2023-4-1 to 2024-4-1](1.9-2.1CELO_sent_by_binance.png)
 
 (This figure shows CELOchain transactions sent by Binance and number between 1.9 ~ 2.1)
 
-![0.9-1.1CELO sent by binance from 2023-4-1 to 2024-4-1](0.9-1.1CELO_sent_by_binance.png)
+![0.4-0.6CELO sent by binance from 2023-4-1 to 2024-4-1](0.4-0.6CELO_sent_by_binance.png)
 
 (This figure shows CELOchain transactions sent by Binance and number between 0.4 ~ 0.6)
 
 
-By monitoring the withdrawal operations from the Binance exchange on the CELO chain(shows above), I found that a large number of abnormal behaviors occurred on the chain from July 24th to July 26th, July 18th to Aug 10th and june 10th to june 17th on 2023.(withdrawing ~1CELO or ~2CELO or ~0.5CELO from the exchange, and then conducting layerzero transactions). I set the Origin dataset Filter condition to this time period, the sender's tag is Tether-Binance, the transaction amount is 0.9-1.1CELO or 1.9-2.1 or 0.4-0.6, and I got about 25,000 pieces of data.
+By monitoring the withdrawal operations from the Binance exchange on the CELO chain(shows above), I found that a large number of abnormal behaviors occurred on the chain from July 24th to July 26th, July 18th to Aug 10th and june 10th to june 17th on 2023.(withdrawing ~1CELO or ~2CELO or ~0.5CELO from the exchange, and then conducting layerzero transactions). I set the Origin dataset Filter condition to this time period, the sender's tag is Tether-Binance, the transaction amount is 0.9-1.1CELO or 1.9-2.1 or 0.4-0.6, and I got about 25,000 pieces of data. You can get original dataset here.[origin_dataset1](origin_dataset1.csv); [origin_dataset2](origin_dataset2.csv); [origin_dataset3](origin_dataset3.csv)
 
 Origin dataset filter condition: 
 - Celochain transaction sent by Tether: Binance(0xf64368...)
@@ -3350,12 +3361,7 @@ Origin dataset filter condition:
   - dataset2: between July-18-2023 and Aug-10-2023
   - dataset3: between Jun-10-2023 and Jun-16-2023
 
-Next, I used the transaction data provided by Layerzero to obtain the _'Number of LZ tx' 'Projects' 'Total LZ Volume $' 'Average LZ Volume $' 'Number of OAPPS' 'Number of Sendchian' 'Number of Chian'_ and EarliestLZdata. The initial dataset is here [initial_dataset1](add_lzdata1.csv), [initial_dataset2](add_lzdata2.csv) and [initial_dataset3](dataset3.csv).
-
-Note：the multichain wallet balance$(from debank api) snapshot time: 
-- dataset1: around May-24-2024 11:30PM UTC+8
-- dataset2: around May-26-2024 1:30PM UTC+8
-- dataset3: around May-27-2024 11:00AM UTC+8
+Next, I used the transaction data provided by Layerzero to obtain the _'Number of LZ tx' 'Projects' 'Total LZ Volume $' 'Average LZ Volume $' 'Number of OAPPS' 'Number of Sendchian' 'Number of Chian' and 'EarliestLZdata_'.
 
 ## Data processing
 In the data processing, I used the affinity propation algorithm **five** times to identify the data. After each identification, clusters with less than 20 samples were eliminated, and each identification and filtering process had different goals.
@@ -3390,17 +3396,23 @@ The set Affinity Propagation feature parameters are
 features = ['Funding block','Funding Amount[CELO]','Number of LZ tx','Total LZ Volume $','Average LZ Volume $','Number of OAPPS','Number of Sendchian','Number of Chian']
 ```
 The input of the last clustering algorithm is intial all available parameters of the initial dataset, and it attempts to divide the dataset into as many clusters as possible. Similarly, clusters with less than 20 internal members will be deleted. This way we get the final output data.
-After 4 times of cluster filtering, we now have preliminary processing results, which are [initial_output1](initial_output1.csv), [initial_output2](initial_output2.csv) and [initial_output3](initial_output3.csv). 
+After 4 times of cluster filtering, we now have preliminary processing results.
 
 ### Fifth filter(universal filter)
-Here we will show a big killer: multichain wallet balance. In the results obtained after the above 4 times of filtering, I obtained the multichain wallet balances of all addresses in the results through Debank, and then performed a full-data clustering filter, which will greatly reduce the probability of false positive samples. You can get final dataset here: [final_dataset1](dataset1.csv), [final_dataset2](dataset2.csv) and [final_dataset3](dataset3.csv).
+
+Note：the multichain wallet balance$(from debank api) snapshot time: 
+- dataset1: around May-24-2024 11:30PM UTC+8
+- dataset2: around May-26-2024 1:30PM UTC+8
+- dataset3: around May-27-2024 11:00AM UTC+8
+
+Here we will show a big killer: multichain wallet balance. In the results obtained after the above 4 times of filtering, I obtained the multichain wallet balances of all addresses in the results through Debank, and then performed a full-data clustering filter, which will greatly reduce the probability of false positive samples.
 
 The set Affinity Propagation feature parameters are
 ```python
 features = ['Funding block','Funding Amount[CELO]','Number of LZ tx','Total LZ Volume $','Average LZ Volume $','Number of OAPPS','Number of Sendchian','Number of Chian', 'Onmichain Balance$','Onmichain Balance$']
 ```
 
-After five times identify and filter, we have the final data, see [processed_data1](final_output1.csv), [processed_data2](final_output2.csv) and [processed_data3](final_output3.csv). 
+After five times identify and filter, we have the final data, see [final_output1](final_output1.csv), [processed_data2](final_output2.csv) and [processed_data3](final_output3.csv). 
 
 ### More ways to remove false positive samples
 To provide further evidence, I will provide each cluster address with a large-scale homogenization operation different from  filter source in table (such as a large-scale homogenization withdrawal from the exchange again)
