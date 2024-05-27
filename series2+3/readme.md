@@ -8335,7 +8335,6 @@ In addition to accepting CELO in batches on the CELO chain on June 15th, This ba
 **Data at a glance**
 ![batch3-40](image3/batch40.png)
 
-
 # Reward Address (If Eligible)
 0x582b8cb4653b933157c2242e594638e62f373060
 
