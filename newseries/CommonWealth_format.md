@@ -48,15 +48,15 @@ The workflow can be briefly summarized as:
 
 ## Dataset
 
-![0.9-1.1CELO sent by binance from 2023-4-1 to 2024-4-1](0.9-1.1CELO_sent_by_binance.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/234690ea-dfd4-4432-b930-f7b6d5e01098.1716824268234)
 
 (This figure shows CELOchain transactions sent by Binance and number between 0.9 ~ 1.1)
 
-![1.9-2.1CELO sent by binance from 2023-4-1 to 2024-4-1](1.9-2.1CELO_sent_by_binance.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/a4c10bea-4f5b-4a64-be54-1708fd734264.1716824290876)
 
 (This figure shows CELOchain transactions sent by Binance and number between 1.9 ~ 2.1)
 
-![0.4-0.6CELO sent by binance from 2023-4-1 to 2024-4-1](0.4-0.6CELO_sent_by_binance.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/6606f997-4152-492b-b90b-a3d096537676.1716824307419)
 
 (This figure shows CELOchain transactions sent by Binance and number between 0.4 ~ 0.6)
 
@@ -3463,7 +3463,7 @@ When verifying the evidence I provided, I used random sampling to verify, and pa
 In addition to accepting CELO in batches on the CELO chain on July 25th. **This batch of addresses also accepted exactly 0.1089ETH or 0.1189ETH form Bitget(transaction on genesis day)** at around May-16-2023 09:35:35 AM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-1](image1/batch1.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/8ca4d579-8ce6-4591-b868-ab558ab1a622.1716824380189)
 
 ---
 **batch1-2**
@@ -3558,8 +3558,7 @@ In addition to accepting CELO in batches on the CELO chain on July 25th. **This 
 0x888270...(looks like CEX address)** at around Jul-11-2023 11:28:49 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-2](image1/batch2.png)
-
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/8d580cb9-a40c-455b-ba0e-333eb35e6143.1716824395419)
 
 ---
 **batch1-3**
@@ -3650,7 +3649,7 @@ In addition to accepting CELO in batches on the CELO chain on July 25th. **This 
 Bitget** at around Jun-30-2023 02:43:00 AM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-3](image1/batch3.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/c9e3c7b0-8e5d-4864-9b78-13755ca5f1b7.1716824416701)
 
 ---
 **batch1-4**
@@ -3712,8 +3711,7 @@ Bitget** at around Jun-30-2023 02:43:00 AM +UTC. Same fund allocation for Omnich
 In addition to accepting CELO in batches on the CELO chain on July 25th. **This batch of addresses also accepted approximately 0.03BNB form Binance(genesis transaction)** at around Apr-28-2023 09:47:26 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-4](image1/batch4.png)
-
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/fa3462c2-07f8-4df2-a3e8-8bbeb347b90e.1716824439230)
 
 ---
 **batch1-5**
@@ -3800,8 +3798,7 @@ In addition to accepting CELO in batches on the CELO chain on July 25th. **This 
 0xE07F73d(unknown CEX)** at around 2023-06-20T18:33:03. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-5](image1/batch5.png)
-
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/2a536137-9a75-4f77-9053-1842872c5d91.1716824456802)
 
 ---
 **batch1-6**
@@ -3902,8 +3899,7 @@ In addition to accepting CELO in batches on the CELO chain on July 25th. **This 
 The owners of addresses in this cluster have a high awareness of censorship prevention, and activities are usually carried out in batches. However, this address: 1: The number of CELO withdrawals is too obvious (he intentionally increased the number of decimal places to disguise randomness); 2: **While withdrawing CELO on July 25, the cluster address withdrew approximately 1.25CORE**；3:Same fund allocation for Omnichain wallets.
 
 **Data at a glance**
-![batch1-6](image1/batch6.png)
-
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/1c85b6ee-508b-403a-8a8c-f467984b6e69.1716824474038)
 
 ---
 **batch1-7**
@@ -4103,9 +4099,9 @@ The owners of addresses in this cluster have a high awareness of censorship prev
 In addition to accepting CELO in batches on the CELO chain on July 25th. **This batch of addresses also accepted approximately 0.176CELO(0.15$) form Binance and the used merkly to bridge gas(0.05$)** at around Apr-02-2024 06:08:01 AM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-7](image1/batch7.png)
-![batch1-7-2](image1/batch7-2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/fddd3ba0-a19c-448e-ab52-6a6bc354bcc7.1716824590430)
 
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/0db7545c-e4b0-4ad1-8137-e648a7bbe565.1716824601797)
 
 ---
 **batch1-8**
@@ -4192,8 +4188,7 @@ In addition to accepting CELO in batches on the CELO chain on July 25th. **This 
 Batch1-8 and Batch1-7 belong to same entity. In addition to accepting CELO in batches on the CELO chain on July 25th. **This batch of addresses also accepted approximately 0.163CELO(0.15$) form Binance and the used merkly to bridge gas(0.05$)** at around Apr-02-2024 06:08:01 AM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-8](image1/batch8.png)
-
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/260a75a1-5cf3-459a-b8f0-913646adb570.1716824624506)
 
 ---
 **batch1-9**
@@ -4273,7 +4268,6 @@ Batch1-8 and Batch1-7 belong to same entity. In addition to accepting CELO in ba
 0x78007348def795b6b05b0d266081e439bfff0870
 0x91ceed6bda1cbac32ec1fe877a1a3aaa17525555
 0xa1639c9756fb3644cc29a8fd292cf239966101d2
-
 ```
 
 **Extra evidence**
@@ -4281,8 +4275,7 @@ Batch1-8 and Batch1-7 belong to same entity. In addition to accepting CELO in ba
 In addition to accepting CELO in batches on the CELO chain on July 25th. **This batch of addresses also accepted approximately 10FTM(3.6$) and 0.37AVAX(5.8$) form Binance(genesis transaction)** at around May-14-2023 10:04:42 AM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-9](image1/batch9.png)
-
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/9b819348-e68d-49cf-9f0e-49d43f8f27f1.1716824640013)
 
 ---
 **batch1-10**
@@ -4312,7 +4305,6 @@ In addition to accepting CELO in batches on the CELO chain on July 25th. **This 
 0x1d513349d2b62e9caa6fd2a58f2f893f2a5d6bb3
 0x22eae36973a241d0707ca3bfb60213c048442bc1
 0xf23ee65b8ae98ebc4342d1ebb5ab42d0a15f4831
-
 ```
 
 **Extra evidence**
@@ -4320,8 +4312,7 @@ In addition to accepting CELO in batches on the CELO chain on July 25th. **This 
 In addition to accepting CELO in batches on the CELO chain on July 25th. **This batch of addresses also accepted approximately 10FTM(3.6$) and 0.37AVAX(5.8$) form Binance** at around Apr-27-2023 10:16:37 AM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-10](image1/batch10.png)
-
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/28cc360c-acc3-408a-9ddc-2327e2c37df7.1716824664467)
 
 ---
 **batch1-11**
@@ -4359,7 +4350,7 @@ In addition to accepting CELO in batches on the CELO chain on July 25th. **This 
 In addition to accepting CELO in batches on the CELO chain on July 24th. **This batch of addresses also accepted approximately 0.45AVAX sent by Binance(genesis transaction)** at around Jun-2-2023 7:54:28 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-11](image1/batch11.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/7dfb0dc0-cfbb-4d6f-89e6-b431dadc4717.1716824686274)
 
 ---
 **batch1-12**
@@ -4408,7 +4399,6 @@ In addition to accepting CELO in batches on the CELO chain on July 24th. **This 
 0x33b19b19b0f5ca71fef7a9a8999009d440ed2390
 0xcbd86b3c3a4475d3bac7574dcc8af5b66c93a391
 0x49bc3c82b5ab5e9ae1b17de16eebd4df9235ea00
-
 ```
 
 **Extra evidence**
@@ -4416,7 +4406,7 @@ In addition to accepting CELO in batches on the CELO chain on July 24th. **This 
 In addition to accepting CELO in batches on the CELO chain on July 24th. **This batch of addresses also accepted approximately 10FTM(3.6$) form Binance** at around Apr-25-2023 09:02:44 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-12](image1/batch12.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/81736c2c-2508-4c69-ad50-96badc55462a.1716824706736)
 
 ---
 **batch1-13**
@@ -4513,7 +4503,7 @@ In addition to accepting CELO in batches on the CELO chain on July 24th. **This 
 In addition to accepting CELO in batches on the CELO chain on July 24th. **This batch of addresses also accepted exactly 0.96CORE form 0xd1955b(unknown address) and then used zkBridge to bridge ONFT** at around 2023-07-25T06:27:23. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-13](image1/batch13.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/fbbdc8f8-af26-4546-9ade-fea23d2df21e.1716824722807)
 
 ---
 **batch1-14**
@@ -4674,7 +4664,7 @@ In addition to accepting CELO in batches on the CELO chain on July 24th. **This 
 In addition to accepting CELO in batches on the CELO chain on July 24th. **This batch of addresses also accepted approximately 0.51COEE form 0xcFE2B8(unknown CEX) and then used zkBridge to bridge NFT** at around 2023-07-05T11:29:21. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-14](image1/batch14.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/3ec1a0b9-2294-4379-a99d-e992452a1b28.1716824739315)
 
 ---
 **batch1-15**
@@ -4707,7 +4697,7 @@ In addition to accepting CELO in batches on the CELO chain on July 24th. **This 
 batch1-15 is liking batch1-14. In addition to accepting CELO in batches on the CELO chain on July 24th. **This batch of addresses also accepted approximately 0.51COEE form 0xcFE2B8(unknown CEX) and then used zkBridge to bridge NFT** at around 2023-07-05T11:29:21. Same fund allocation for Omnichain wallets.
 
 **Data at a glance**
-![batch1-15](image1/batch15.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/81605aaf-9843-4da4-803d-3895b0c26643.1716824755771)
 
 ---
 
@@ -4749,7 +4739,7 @@ In addition to accepting CELO in batches on the CELO chain on July 18th. **This 
 0xcFE2B(unknown CEX)** at around 2023-07-13T16:27:46. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch2-1](image2/batch1.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/67d074e3-dbf4-4c14-964f-6fa33f7668bf.1716824782224)
 
 ---
 
@@ -4806,7 +4796,7 @@ In addition to accepting CELO in batches on the CELO chain on July 18th. **This 
 OKX and then used testnet bridge** at around Feb-13-2024 11:27:45 AM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch2-2](image2/batch2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/d3aada51-de7c-4b17-b0be-affb6193c577.1716824798656)
 
 ---
 
@@ -4840,7 +4830,7 @@ In addition to accepting CELO in batches on the CELO chain on July 22th. **This 
 Binance(genesis transaction)** at around 2023-07-13T16:27:46. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch2-3](image2/batch3.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/9ccf9f2f-694c-42e2-b363-af70e853c885.1716824815741)
 
 ---
 
@@ -4889,7 +4879,7 @@ In addition to accepting exactly 1.999CELO in batches on the CELO chain on July 
 biance** at around Jun-04-2023 11:15:40 AM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch2-4](image2/batch4.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/238cdf9a-2be4-43f9-8179-f84632f03d03.1716824834630)
 
 ---
 
@@ -4939,7 +4929,7 @@ biance** at around Jun-04-2023 11:15:40 AM +UTC. Same fund allocation for Omnich
 In addition to accepting CELO in batches on the CELO chain on July 25th. **This batch of addresses also accepted exactly 79.9MATIC and 100arbUSDT form biance** at around Jun-09-2023 08:06:37 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch2-5](image2/batch5.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/c29878d1-8042-4808-a646-3758fa28b420.1716824850083)
 
 ---
 
@@ -4995,7 +4985,7 @@ In addition to accepting CELO in batches on the CELO chain on July 25th. **This 
 0xcFE2B(unknown CEX)** at around 2023-07-13T16:27:46. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch2-6](image2/batch6.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/fb061c74-472c-41a1-8135-aaa8bc6b6e3c.1716824865686)
 
 ---
 
@@ -5066,7 +5056,7 @@ In addition to accepting CELO in batches on the CELO chain on July 28th. **This 
 0xcFE2B(unknown CEX) and then used zkBridge to mint NFT** at around 2023-07-28T12:24:32. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch2-7](image2/batch7.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/e88ad8a5-0796-4d60-96a1-e5fed0ee3c2e.1716824881385)
 
 ---
 
@@ -5101,7 +5091,7 @@ In addition to accepting CELO in batches on the CELO chain on July 29th. **This 
 binance(genesis transaction)** at around Jun-12-2023 06:18:01 AM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch2-8](image2/batch8.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/29c0da85-2759-4dba-9fc9-19dcfe65cf0e.1716824895443)
 
 ---
 
@@ -5133,7 +5123,7 @@ In addition to accepting CELO in batches on the CELO chain on July 30th. **This 
 OKX** at around Jul-29-2023 5:34:40 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch2-9](image2/batch9.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/20ac8a7b-5aa6-4c3f-9650-d2febb14e0cc.1716824908073)
 
 ---
 
@@ -5225,8 +5215,9 @@ In addition to accepting CELO in batches on the CELO chain on Aug 5th. **This ba
 0xcFE2B(unknown CEX)** at around 2023-07-09T12:45:06. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch2-10](image2/batch10.png)
-![batch2-10-2](image2/batch10-2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/a4b49444-14e1-4bf1-b0d4-1ac48e7aa7b2.1716824921007)
+
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/6b29b265-a9d3-48fb-b562-a53322050ed7.1716824939282)
 
 ---
 
@@ -5311,8 +5302,9 @@ In addition to accepting CELO in batches on the CELO chain on Aug 8th. **This ba
 binance** at around May-15-2023 07:42:07 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch2-11](image2/batch11.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/041a8c26-5087-4c72-85e0-aa1ecd9adb5e.1716824958388)
 
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/b0b2a072-02c1-45f4-9efb-842130350ef4.1716824974676)
 
 ---
 
@@ -5444,7 +5436,7 @@ In addition to accepting CELO in batches on the CELO chain on Aug 10th. **This b
 binance** at around May-17-2023 03:56:30 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch2-12](image2/batch12.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/5d4c6067-cc56-4776-b4dc-62cd379a1f1e.1716824990154)
 
 ---
 
@@ -5605,8 +5597,9 @@ binance** at around May-17-2023 03:56:30 PM +UTC. Same fund allocation for Omnic
 In addition to accepting CELO in batches on the CELO chain on June 11th. **This batch of addresses also accepted approximately 0.006arbETH(genesis transaction) sent by OKX** at around Apr-08-2023 09:19:04 PM +UTC. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-1](image3/batch1.png)
-![batch3-1-2](image3/batch1-2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/25148a0a-4f81-49ce-aecc-062eadf214ec.1716825011404)
+
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/165a1f79-3413-4d01-b6b9-f0dc925a79d9.1716825030677)
 
 ---
 **batch3-2**
@@ -5703,7 +5696,7 @@ In addition to accepting CELO in batches on the CELO chain on June 11th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 11th. **This batch of addresses also accepted approximately 0.75CORE(Corechain genesis transaction) sent by 0xcfe2b(unknown CEX)** at around 2023-07-03T13:10:34. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-2](image3/batch2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/99e96ab3-0c45-4310-a8fb-47d267dce724.1716825046958)
 
 ---
 **batch3-3**
@@ -5845,9 +5838,11 @@ In addition to accepting CELO in batches on the CELO chain on June 11th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 11th. **This batch of addresses also accepted approximately 0.9CORE(Corechain genesis transaction) sent by 0xcfe2b(unknown CEX)** at around 2024-02-08T12:47:02. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-3](image3/batch3.png)
-![batch3-3-2](image3/batch3-2.png)
-![batch3-3-3](image3/batch3-3.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/b5d08117-f51e-4d4b-bbfe-6153e4dc9335.1716825063135)
+
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/034a37bb-b3b2-4123-a018-d397f7ecc397.1716825077196)
+
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/5f01a945-07ef-45c9-be26-5fe77dd20cc6.1716825111492)
 
 ---
 **batch3-4**
@@ -5901,7 +5896,7 @@ In addition to accepting CELO in batches on the CELO chain on June 11th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 11th. **This batch of addresses also accepted approximately 1CELO sent by Binance** at around Jun-28-2023 03:27:44 PM +UTC. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-4](image3/batch4.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/e40e4e96-260b-4859-ab78-94691e91b8a0.1716825126101)
 
 ---
 **batch3-5**
@@ -5972,7 +5967,7 @@ In addition to accepting CELO in batches on the CELO chain on June 11th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 11th. **This batch of addresses also accepted approximately 0.01arbETH sent by OKX** at around May-19-2023 08:19:35 AM +UTC. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-5](image3/batch5.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/5d535b9a-5ee6-4e9c-97bc-57fb8db02477.1716825144070)
 
 ---
 **batch3-6**
@@ -6005,7 +6000,7 @@ In addition to accepting CELO in batches on the CELO chain on June 11th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 11th. **This batch of addresses also accepted approximately 0.006arbETH(genesis transaction) sent by OKX** at around Apr-08-2023 09:19:04 PM +UTC. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-6](image3/batch6.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/87631bf5-3b23-423c-8994-45e4cbf0bbb3.1716825158967)
 
 ---
 **batch3-7**
@@ -6057,7 +6052,7 @@ In addition to accepting CELO in batches on the CELO chain on June 11th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 16th. **This batch of addresses also accepted approximately 3.7CORE(Core chain genesis transaction) sent by 0xcFE2B8(unknownCEX) and then used core bridge to bridge USDT** at around 2023-05-17T14:07:15. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-7](image3/batch7.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/2d7b3d1e-ad04-4a88-9a40-fa2c7985eacb.1716825173977)
 
 ---
 **batch3-8**
@@ -6208,11 +6203,11 @@ In addition to accepting CELO in batches on the CELO chain on June 16th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 16th. **This batch of addresses also accepted approximately 1.55CORE sent by 0xcFE2B8(unknown CEX) then bridge around 4500USDT** at around 2024-03-07T10:58:21. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-8](image3/batch8.png)
-![batch3-8-2](image3/batch8-2.png)
-![batch3-8-3](image3/batch8-3.png)
-![batch3-8-4](image3/batch8-4.png)
-![batch3-8-5](image3/batch8-5.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/c473ac41-c940-46f2-b5f0-f7f1cac12f74.1716825197612)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/34e49864-a388-45df-96b7-8184cb692d2c.1716825197654)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/a71b37b3-497b-4b45-a2d4-7829198ca355.1716825197625)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/1d9c1787-d2e1-4dfd-8a02-45ce8088923c.1716825197631)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/06745c7c-ca94-42a3-a2ec-c74f0474f6a7.1716825197619)
 
 ---
 **batch3-9**
@@ -6340,8 +6335,8 @@ In addition to accepting CELO in batches on the CELO chain on June 16th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 18th. These addresses have too similar genesis transactions: withdraw about 0.8ETH from OKX, then use Testnet Bridge, Apto Bridge, Stargate and WOO to transfer the funds to OKX. Too many decimal places.
 
 **Data at a glance**
-![batch3-9](image3/batch9.png)
-![batch3-9-2](image3/batch9-2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/3451a116-f201-4b9f-9bf1-2d4bf0be43c3.1716825238146)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/ec0506be-c0d4-4a0a-8f17-c69ca0790b89.1716825238156)
 
 ---
 **batch3-10**
@@ -6402,7 +6397,7 @@ In addition to accepting CELO in batches on the CELO chain on June 18th. These a
 In addition to accepting CELO in batches on the CELO chain on June 9th. **This batch of addresses also accepted approximately 0.04BNB sent by binance** at around Jun-10-2023 03:22:00 AM +UTC. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-10](image3/batch10.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/0f9149f5-b79e-426c-bbfd-251af0c83099.1716825262517)
 
 ---
 **batch3-11**
@@ -6495,7 +6490,7 @@ In addition to accepting CELO in batches on the CELO chain on June 9th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 12th. **This batch of addresses also accepted approximately 1CELO sent by binance** at around Jun-14-2023 11:01:11 PM +UTC. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-11](image3/batch11.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/f726b5b3-1cea-4a18-bfd7-77505fcd30c4.1716825275634)
 
 ---
 **batch3-12**
@@ -6528,7 +6523,7 @@ In addition to accepting CELO in batches on the CELO chain on June 12th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 12th. **This batch of addresses also accepted approximately 0.0013arbETH sent by OKX then used testnet bridge** at around May-21-2023 10:40:06 AM +UTC. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-12](image3/batch12.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/9c098416-eb44-4cc8-85cf-665722f7159e.1716825292569)
 
 ---
 **batch3-13**
@@ -6563,7 +6558,7 @@ In addition to accepting CELO in batches on the CELO chain on June 12th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 16th. **This batch of addresses also accepted approximately 12FTM sent by binance then used stargate to bridge USDC** at around May-13-2023 05:38:11 PM +UTC. Same fund allocation for Omnichain wallets.
 
 **Data at a glance**
-![batch3-13](image3/batch13.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/836cef24-e9d0-40e8-8b0a-fd7dd91dc4c9.1716825307579)
 
 ---
 **batch3-14**
@@ -6596,7 +6591,7 @@ In addition to accepting CELO in batches on the CELO chain on June 16th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 16th. **This batch of addresses also accepted exactly 1CORE sent by 0xcFE2B8(unknown CEX) and then used core bridge to bridge 1usdc** at around 2023-07-14T15:14:13. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-14](image3/batch14.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/41642338-7a31-483b-acf8-d5ddf46b7f12.1716825325466)
 
 ---
 **batch3-15**
@@ -6639,7 +6634,7 @@ In addition to accepting CELO in batches on the CELO chain on June 16th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 15th. **This batch of addresses also accepted approximately 10FTM sent by binance(genesis transaction)** at around Apr-30-2023 10:15:58 AM +UTC. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-15](image3/batch15.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/a7df6b9b-e9a8-4bfd-a57d-0c134552d28c.1716825341026)
 
 ---
 **batch3-16**
@@ -6695,7 +6690,7 @@ In addition to accepting CELO in batches on the CELO chain on June 15th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 15th. **This batch of addresses also accepted approximately 0.005arbETH sent by okx** at around Apr-18-2023 05:20:13 AM +UTC. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-16](image3/batch16.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/29caf3e9-69cb-4978-abc4-b940a368dd06.1716825355477)
 
 ---
 **batch3-17**
@@ -6742,7 +6737,7 @@ In addition to accepting CELO in batches on the CELO chain on June 15th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 16th. **This batch of addresses also accepted approximately 0.17CELO sent by binance** at around Apr-02-2024 07:52:46 AM +UTC. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-17](image3/batch17.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/5930ad32-2f09-408c-b719-e315790ad1d8.1716825371516)
 
 ---
 **batch3-18**
@@ -6815,7 +6810,8 @@ In addition to accepting CELO in batches on the CELO chain on June 16th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 16th. **This batch of addresses also accepted approximately 0.5CORE sent by 0xcFE2B8(unknown CEX) then used zkbridge to bridge ONFT** at around 2023-07-05T01:39:36. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-18](image3/batch18.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/24cbe227-c997-423b-9be5-0195d53ecb50.1716825388443)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/e4e2a004-2c55-4ac4-9afb-2ff4f43fb537.1716825388451)
 
 ---
 **batch3-19**
@@ -6890,7 +6886,7 @@ In addition to accepting CELO in batches on the CELO chain on June 16th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 14th. **This batch of addresses also accepted approximately 0.5AVAX sent by binance** at around Jun-3-2023 10:00:01 PM +UTC. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-19](image3/batch19.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/10d54e84-5055-481f-89cc-e13dddd7b29b.1716825434054)
 
 ---
 **batch3-20**
@@ -6933,7 +6929,7 @@ In addition to accepting CELO in batches on the CELO chain on June 14th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 13th. **This batch of addresses also accepted approximately 3.9CORE sent by 0xcFE2B8(unknown CEX) then bridged USDT** at around 2023-05-25T20:45:10. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-20](image3/batch20.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/a41fc66d-17c8-46b6-aed5-42a1045f9448.1716825451914)
 
 ---
 **batch3-21**
@@ -7059,9 +7055,9 @@ In addition to accepting CELO in batches on the CELO chain on June 13th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 14th. **This batch of addresses also accepted approximately 3.5MATIC sent by okx(genesis transaction)** at around May-10-2023 10:43:12 PM +UTC. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-21](image3/batch21.png)
-![batch3-21-2](image3/batch21-2.png)
-![batch3-21-3](image3/batch21-3.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/d90af29a-3c84-429e-b4cc-dde357b4331a.1716825475566)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/d6a31e66-33a0-4f39-ba8c-fb867906369a.1716825475577)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/c9a7d7c3-47f4-4389-ac45-25687d87cab5.1716825475586)
 
 ---
 **batch3-22**
@@ -7136,9 +7132,9 @@ In addition to accepting CELO in batches on the CELO chain on June 14th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 13th. **This batch of addresses also accepted approximately 2MATIC sent by MEXC** at around May-27-2023 07:37:07 PM +UTC. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-22](image3/batch22.png)
-![batch3-22-2](image3/batch22-2.png)
-![batch3-22-3](image3/batch22-3.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/81960e31-6c20-4288-93e5-a9135aa0f27d.1716825496633)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/02f85ac6-c9d2-4044-92fc-0045e2d354aa.1716825496619)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/95d061fa-697c-43f5-8685-57aee85f885a.1716825496627)
 
 
 ---
@@ -7222,8 +7218,8 @@ In addition to accepting CELO in batches on the CELO chain on June 13th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 13th. These addresses have too similar genesis transactions: withdraw about 0.05arbETH from OKX, then use Testnet Bridge, Apto Bridge, Stargate and WOO. Too many decimal places.
 
 **Data at a glance**
-![batch3-23](image3/batch23.png)
-![batch3-23-2](image3/batch23-2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/52a49da5-074d-470e-afdd-303965f15f5d.1716825517170)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/54c4aff5-5c38-47f7-a9d3-2a12dc3baba0.1716825517177)
 
 ---
 **batch3-24**
@@ -7272,7 +7268,7 @@ In addition to accepting CELO in batches on the CELO chain on June 13th. These a
 In addition to accepting CELO in batches on the CELO chain on June 13th. **This batch of addresses also accepted approximately 3.9CORE sent by 0xcFE2B8(unknown CEX) then bridged USDT** at around 2023-05-25T20:45:10. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-24](image3/batch24.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/9cc335ef-9f28-4543-8a6e-b834eb51dddd.1716825535236)
 
 ---
 **batch3-25**
@@ -7336,8 +7332,8 @@ In addition to accepting CELO in batches on the CELO chain on June 13th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 13th. **This batch of addresses also accepted approximately 0.001BNB sent by Bitget** at around May-31-2023 08:33:06 PM +UTC. Same fund allocation for Omnichain wallets.
 
 **Data at a glance**
-![batch3-25](image3/batch25.png)
-![batch3-25-2](image3/batch25-2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/b970825c-1f2b-4eae-adaa-83a3237fc197.1716825551478)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/bd286f54-47d4-4c11-af31-c59cea881688.1716825551474)
 
 ---
 **batch3-26**
@@ -7426,8 +7422,8 @@ In addition to accepting CELO in batches on the CELO chain on June 13th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 13th. **This batch of addresses also accepted approximately 20STG sent by binance and exactly 5MATIC sent bybit(genesis transaction)** at around Apr-28-2023 10:30:23 PM +UTC. Same fund allocation for Omnichain wallets.
 
 **Data at a glance**
-![batch3-26](image3/batch26.png)
-![batch3-26-2](image3/batch26-2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/4c91d889-5d86-4229-bf8c-d4603badddc4.1716825571605)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/01882f68-24a0-45d6-a545-91fae487d169.1716825571613)
 
 ---
 **batch3-27**
@@ -7487,7 +7483,7 @@ In addition to accepting CELO in batches on the CELO chain on June 13th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 14th. **This batch of addresses also accepted approximately 2.5MATIC sent by MEXC(genesis transaction)** at around May-21-2023 12:25:07 AM +UTC. Same fund allocation for Omnichain wallets. Too many decimal places.
 
 **Data at a glance**
-![batch3-27](image3/batch27.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/7029e8a3-173c-4cb3-8293-0bc4355b18b9.1716825589229)
 
 
 # Reward Address (If Eligible)
@@ -7553,7 +7549,7 @@ df.to_csv('final_output',index=False)
 
 The z-axis is the multichainwallet balance, and all axis data have been standardized.
 
-![affinity propagation](affinity_propagation.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/2d7c903d-799b-4e39-ae3c-de90cb14414c.1716825610213)
 
 **Dune SQL**
 ```SQL
