@@ -3567,7 +3567,7 @@
 ```
 
 # Description
-_You can get report address here [batches1](address1.csv), [batches2](address2.csv) and [batches3](address3.csv) or the following._
+_This is first series I submit. I submitted a total of two reports using this method, but the details were different. You can get this series' report address here [batches1](address1.csv), [batches2](address2.csv) and [batches3](address3.csv) or the following._
 
 _This report have 3,563 address and 80 batches._
 
@@ -3579,7 +3579,8 @@ Given my understanding of my own capabilities, I realized it would be impossible
 - Using Debank's full-chain wallet balance to thoroughly filter out real user addresses;
 - Implementing multiple filtering stages (I used Affinity Propagation four times, eliminating clusters with fewer than 20 samples after each - clustering analysis);
 - Conducting manual screening and verification after the algorithmic filtering, providing additional witch evidence.
-- 
+
+
 _Note: In the address screening process, special attention is given to the number of decimal places in funding transactions. Since the withdrawal fee for CELO from Binance is 0.001, **it is unlikely that normal users would enter transactions with excessive decimal places. Therefore, funding transactions with more than three decimal places are deemed suspicious.**_
 
 In order to ensure sufficient accuracy, I spent considerable time manually screening the witch clusters. I have been diligently working on this since the onset of the second phase of Operation Prey. Utilizing the Affinity Propagation algorithm on a dataset with around two thousand strip addresses yielded excellent results. However, with larger datasets, the algorithm often failed to classify large clusters correctly, causing me significant additional trouble. 
