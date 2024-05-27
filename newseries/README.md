@@ -1,3 +1,19 @@
+# Crosscheck
+
+reward address: 0xfa8d0fc1c3fc17396ace8758079b42ec2dc7bd79
+
+CommonWealth report url:
+
+Github invitation url: https://github.com/crescentii/CommonWealth_Submit/invitations
+
+Github report url: https://github.com/crescentii/CommonWealth_Submit/tree/main/newseries
+
+navigate to _newseries_ folder
+
+Cloud disk backup url: https://drive.google.com/file/d/1XyzAIh91nB-vWeWjinhvQsRmJ9m8naKp/view?usp=drive_link
+
+**For a better reading experience, please use Github**
+
 # Reported Addresses
 ```
 0x697e20307552031db4827402cb7a0fac972e3fce
@@ -6802,6 +6818,7 @@ In addition to accepting CELO in batches on the CELO chain on June 16th. **This 
 
 **Data at a glance**
 ![batch3-18](image3/batch18.png)
+![batch3-18-2](image3/batch18-2.png)
 
 ---
 **batch3-19**
