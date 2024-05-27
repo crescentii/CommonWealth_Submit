@@ -3416,6 +3416,7 @@ After five times identify and filter, we have the final data, see [final_output1
 
 ### More ways to remove false positive samples
 To provide further evidence, I will provide each cluster address with a large-scale homogenization operation different from  filter source in table (such as a large-scale homogenization withdrawal from the exchange again)
+
 When verifying the evidence I provided, I used random sampling to verify, and paid special attention to the data at the edge of the cluster. Moreover, among the submitted clusters, I mannully excluded clusters whose features did not appear to be particularly obvious. The final cluster had almost no possibility of false positives.
 
 ---
