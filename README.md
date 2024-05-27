@@ -10,7 +10,7 @@ navigate to _newseries_ folder
 
 Cloud disk backup url: https://drive.google.com/file/d/1XyzAIh91nB-vWeWjinhvQsRmJ9m8naKp/view?usp=drive_link
 
-For a better reading experience, please use Github
+**For a better reading experience, please use Github**
 
 
 
@@ -25,4 +25,4 @@ navigate to _series2+3_ folder
 
 Cloud disk backup url: https://drive.google.com/file/d/1CG-gcPlK_NQrWBqdq8y0FINBJRYoC6dn/view?usp=drive_link
 
-For a better reading experience, please use Github
+**For a better reading experience, please use Github**
