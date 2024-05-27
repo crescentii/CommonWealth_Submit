@@ -8337,7 +8337,7 @@ In addition to accepting CELO in batches on the CELO chain on June 15th, This ba
 
 
 # Reward Address (If Eligible)
-0xfa8d0fc1c3fc17396ace8758079b42ec2dc7bd79
+0x582b8cb4653b933157c2242e594638e62f373060
 
 # Appendix
 **Affinity propation code and filter**
