@@ -1,7 +1,5 @@
 # Reported Addresses
 
-You can get report address here [batches1](address1.csv), [batches2](address2.csv) and [batches3](address3.csv) or the following.
-
 ```
 0x0d4b771e25aa007366135e66e38ba02151d0257b
 0x1b1c3c4fdd099b3b3ec3711f17853cd2b78a314b
@@ -3569,12 +3567,35 @@ You can get report address here [batches1](address1.csv), [batches2](address2.cs
 ```
 
 # Description
-The Affinity Propagation algorithm is used to filter suspicious data four times, strictly reducing false positive samples, and the filtered cluster address data is highly similar. To reduce the possibility of false positive samples, I also manually checked most addresses in submitted cluster. In order to be sufficiently convincing, evidence of the homogenization operation of each cluster address on the entire chain is also provided.
+_You can get report address here [batches1](address1.csv), [batches2](address2.csv) and [batches3](address3.csv) or the following._
 
-In the address screening, **special attention is paid to the number of decimal places in funding. Since the handling fee for withdrawing CELO from the Binance is 0.001, and normal users will not be bored enough to enter too many decimal places, So funding transactions with more than 3 decimal places are suspicious.**
+_This report have 3,563 address and 80 batches._
+
+Witch hunting can be simply understood as a classification task in the field of machine learning. However, whether utilizing traditional machine learning algorithms or the currently popular neural networks, the emergence of false positive samples is inevitable. In the previous stage, Nansen led the preliminary judgment of witch addresses, achieving a remarkably low error rate.
+
+Given my understanding of my own capabilities, I realized it would be impossible for me to achieve results comparable to Nansen's on a large-scale dataset. Therefore, I turned to another approach to identify witch addresses while ensuring a sufficiently low false positive probability:
+- Narrowing down the sample to periods of frequent witch activity and specific blockchains (CELO chain);
+- Employing small-scale clustering algorithms (Affinity Propagation) to group witch clusters;
+- Using Debank's full-chain wallet balance to thoroughly filter out real user addresses;
+- Implementing multiple filtering stages (I used Affinity Propagation four times, eliminating clusters with fewer than 20 samples after each - clustering analysis);
+- Conducting manual screening and verification after the algorithmic filtering, providing additional witch evidence.
+- 
+_Note: In the address screening process, special attention is given to the number of decimal places in funding transactions. Since the withdrawal fee for CELO from Binance is 0.001, **it is unlikely that normal users would enter transactions with excessive decimal places. Therefore, funding transactions with more than three decimal places are deemed suspicious.**_
+
+In order to ensure sufficient accuracy, I spent considerable time manually screening the witch clusters. I have been diligently working on this since the onset of the second phase of Operation Prey. Utilizing the Affinity Propagation algorithm on a dataset with around two thousand strip addresses yielded excellent results. However, with larger datasets, the algorithm often failed to classify large clusters correctly, causing me significant additional trouble. 
+
+However, judging by the results, I believe I achieved very satisfactory outcomes for the Witch cluster. These cluster addresses exhibit not only the suspiciously identical withdrawal actions on the CELO chain and nearly identical data on the LayerZero protocol, but also show coordinated activities beyond these actions (with additional evidence provided by me). You can easily identify these witch addresses by examining the pictures I have provided. Let's get started now.
 
 # Detailed Methodology & Walkthrough
-Affinity Propagation is a clustering algorithm that identifies exemplars by passing "responsibility" and "availability" messages between data points. It automatically determines the number of clusters based on a preference parameter and similarity matrix, without requiring the number of clusters to be specified beforehand. I have tried many cluster analysis methods and found this method to be the most useful and effective.
+_Affinity Propagation is a clustering algorithm that identifies exemplars by passing "responsibility" and "availability" messages between data points. It automatically determines the number of clusters based on a preference parameter and similarity matrix, without requiring the number of clusters to be specified beforehand. I have tried many cluster analysis methods and found this method to be the most useful and effective._
+
+The workflow can be briefly summarized as:
+1. Download Celochain transactions transfered from Binance Exchange and filtered with a specific time period and specific token number range.
+2. Filter addresses that have been officially identified as witches.
+3. Retrieve the LayerZero data for the remaining addresses.
+4. Use the Debank API to obtain the full-chain wallet balance and the balance of a specific chain for the addresses.
+5. Use the affinity propagation algorithm four times and filter clusters with fewer than 20 samples after each classification.
+6. Manually inspect each cluster and search for additional evidence.
 
 ## Dataset
 
