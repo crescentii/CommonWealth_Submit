@@ -5448,7 +5448,7 @@ In addition to accepting CELO in batches on the CELO chain on June 7th. **This b
 
 **Extra evidence**
 
-In addition to accepting CELO in batches on the CELO chain on June 7th. **This batch of addresses also accepted exactly 0.005ETH sent by batchsender on the [arbitrum](https://arbiscan.io/tx/0x073291cdfa3be69640041772939e12204db7d63edce454b11caf87166cc3d7a6)** at Apr-20-2023 02:07:24 PM +UTC. I will submit remain address in the batch send in another report.
+In addition to accepting CELO in batches on the CELO chain on June 7th. **This batch of addresses also accepted exactly 0.005ETH sent by batchsender on the arbitrum: https://arbiscan.io/tx/0x073291cdfa3be69640041772939e12204db7d63edce454b11caf87166cc3d7a6** at Apr-20-2023 02:07:24 PM +UTC. I will submit remain address in the batch send in another report.
 
 **Data at a glance**
 ![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/35162744-4dcf-4fe9-aafb-ddba99670173.1716826820191)
