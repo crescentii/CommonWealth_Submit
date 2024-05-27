@@ -3774,8 +3774,8 @@ When verifying the evidence I provided, I used random sampling to verify, and pa
 In addition to accepting CELO in batches on the CELO chain on June 19th. **This batch of addresses also accepted approximately 0.3AVAX(3$) sent by OKX** at around Sep-7-2023 8:00:11 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-1](image1/batch1.png)
-![batch1-1-2](image1/batch1-2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/e5eb3613-591c-4adf-9743-d8efd913a358.1716826447166)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/1d67d679-fc9f-41e1-98cd-77d2c5af8957.1716826447159)
 
 ---
 **batch1-2**
@@ -3866,8 +3866,8 @@ In addition to accepting CELO in batches on the CELO chain on June 19th. **This 
 batch2 is liking batch1, just different with lz transaction number. In addition to accepting CELO in batches on the CELO chain on June 19th. **This batch of addresses also accepted approximately 0.3AVAX(3$) sent by OKX** at around Sep-7-2023 8:00:11 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-2](image1/batch2.png)
-![batch1-2-2](image1/batch2-2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/2da60bc1-e7da-4af3-8428-9975ff7ae44d.1716826468486)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/cabaae7c-68d0-47d0-92bd-abc9b8e90cd5.1716826468493)
 
 ---
 **batch1-3**
@@ -3915,7 +3915,7 @@ batch2 is liking batch1, just different with lz transaction number. In addition 
 batch3 is liking batch1,2, just different with omnichain balance. In addition to accepting CELO in batches on the CELO chain on June 19th. **This batch of addresses also accepted approximately 0.3AVAX(3$) sent by OKX** at around Sep-7-2023 8:00:11 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-3](image1/batch3.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/6515c002-7cad-48fd-a68d-395d407d2b87.1716826487324)
 
 ---
 **batch1-4**
@@ -3967,7 +3967,7 @@ batch3 is liking batch1,2, just different with omnichain balance. In addition to
 batch4 is liking batch1,2,3, just different with omnichain balance. In addition to accepting CELO in batches on the CELO chain on June 19th. **This batch of addresses also accepted approximately 0.3AVAX(3$) sent by OKX** at around Sep-7-2023 8:00:11 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-4](image1/batch4.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/c2df288f-2ff3-483e-a49c-40b247acc457.1716826501988)
 
 ---
 **batch1-5**
@@ -4103,9 +4103,9 @@ batch4 is liking batch1,2,3, just different with omnichain balance. In addition 
 batch5 is liking batch1,2,3,4. just different with sendChain number. In addition to accepting CELO in batches on the CELO chain on June 19th. **This batch of addresses also accepted approximately 0.3AVAX(3$) sent by OKX** at around Sep-7-2023 8:00:11 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-5](image1/batch5.png)
-![batch1-5-2](image1/batch5-2.png)
-![batch1-5-3](image1/batch5-3.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/a6c552ff-7fa0-48b2-8db7-949692347808.1716826521695)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/fef70ad9-2ba1-4970-b441-34b82e6bcbb6.1716826521699)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/14569a3c-ff47-4d6f-9a12-2e1bf6bac6dc.1716826521688)
 
 ---
 **batch1-6**
@@ -4199,8 +4199,8 @@ batch5 is liking batch1,2,3,4. just different with sendChain number. In addition
 batch6 is liking batch1,2,3,4,5 just different with sendChain number. In addition to accepting CELO in batches on the CELO chain on June 19th. **This batch of addresses also accepted approximately 0.3AVAX(3$) sent by OKX** at around Sep-7-2023 8:00:11 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-6](image1/batch6.png)
-![batch1-6-2](image1/batch6-2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/af755d8f-edf3-4c68-b8c9-ae5e4e9a3d14.1716826545372)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/32f7c033-42af-4e79-866f-925e8c6e97c6.1716826545364)
 
 ---
 **batch1-7**
@@ -4302,7 +4302,7 @@ batch6 is liking batch1,2,3,4,5 just different with sendChain number. In additio
 batch7 is liking batch1,2,3,4,56. just different with sendChain number or OAPPS number. In addition to accepting CELO in batches on the CELO chain on June 19th. **This batch of addresses also accepted approximately 0.3AVAX(3$) sent by OKX** at around Sep-7-2023 8:00:11 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-7](image1/batch7.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/2ff74d17-4fd4-474e-a8f4-1c6c2ecb45a7.1716826563334)
 
 ---
 **batch1-8**
@@ -4362,7 +4362,7 @@ batch7 is liking batch1,2,3,4,56. just different with sendChain number or OAPPS 
 batch8 is liking batch1,2,3,4,5,6,7. just different with sendChain number or OAPPS number. In addition to accepting CELO in batches on the CELO chain on June 19th. **This batch of addresses also accepted approximately 0.3AVAX(3$) sent by OKX** at around Sep-7-2023 8:00:11 PM +UTC. Same fund allocation for Omnichain wallets. 
 
 **Data at a glance**
-![batch1-8](image1/batch8.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/b56ec3cb-2028-4c53-9576-127c38755f12.1716826577621)
 
 ---
 **batch1-9**
@@ -4456,8 +4456,7 @@ batch8 is liking batch1,2,3,4,5,6,7. just different with sendChain number or OAP
 In addition to accepting CELO in batches on the CELO chain on June 19th. **This batch of addresses also accepted exactly 9.9MATIC(10$) sent by CEX and then used zkbridge** at around May-29-2023 01:13:28 PM +UTC.
 
 **Data at a glance**
-![batch1-9](image1/batch9.png)
-
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/8432a566-2341-4063-a607-e24b3c638b08.1716826593702)
 
 ---
 **batch2-1**
@@ -4595,8 +4594,6 @@ In addition to accepting CELO in batches on the CELO chain on June 19th. **This 
 0x025fc7acbf271d622261e64ae43870d2985541dd
 0x630d569be054686f07ffe2cd5812d452ffae5d2a
 0xcf825f494397c42da26cd7ba9b8ddb73160bd0ce
-
-
 ```
 
 **Extra evidence**
@@ -4604,7 +4601,7 @@ In addition to accepting CELO in batches on the CELO chain on June 19th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 6th. **This batch of addresses also accepted approximately 1.02CORE(1$,CORECHAIN GAS) sent by 0xE07F73(UNKNOWN cex) and then used zkbridge at around 2023-07-06T11:48:06**.
 
 **Data at a glance**
-![batch2-1](image2/batch2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/69f15db1-4a31-4304-9cfd-5708a053cc75.1716826619539)
 
 ---
 **batch2-2**
@@ -4888,7 +4885,7 @@ In addition to accepting CELO in batches on the CELO chain on June 6th. **This b
 batch2 is liking batch1, different for different decimals. In addition to accepting CELO in batches on the CELO chain on June 6th. **This batch of addresses also accepted approximately 1.02CORE(1$,CORECHAIN GAS) sent by 0xE07F73(UNKNOWN cex) and then used zkbridge at around 2023-07-06T11:48:06**
 
 **Data at a glance**
-![batch2-2](image2/batch2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/f111a267-ecf1-49bd-878e-0f76fa56b2ee.1716826652182)
 
 ---
 
@@ -4936,7 +4933,7 @@ batch2 is liking batch1, different for different decimals. In addition to accept
 In addition to accepting CELO in batches on the CELO chain on June 5th. **This batch of addresses also accepted approximately 0.016BNB(5$) sent by binance on the BSC and then used stargate(just batch approve USDT) at around May-21-2023 08:26:47 AM +UTC**
 
 **Data at a glance**
-![batch2-3](image2/batch3.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/b92c1f15-901a-48af-b376-d86b24fe520b.1716826664280)
 
 ---
 **batch2-4**
@@ -5164,9 +5161,9 @@ In addition to accepting CELO in batches on the CELO chain on June 5th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 5th. **This batch of addresses also accepted approximately 0.01BNB(3.5$) and 11USDT(genesis transaction) sent by binance on the BSC and then used harmony bridge(0.02$) at around May-24-2023 05:48:41 PM +UTC**
 
 **Data at a glance**
-![batch2-4](image2/batch4.png)
-![batch2-4-2](image2/batch4-2.png)
-![batch2-4-3](image2/batch4-3.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/14bed520-541c-47ec-a737-d022e8535931.1716826700538)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/0a423ee6-cf23-4ddc-9215-40e46fa6d338.1716826700532)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/e380b618-bf3e-46b8-aa1c-23c91c1753d3.1716826700528)
 
 ---
 
@@ -5210,7 +5207,7 @@ In addition to accepting CELO in batches on the CELO chain on June 5th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 10th. **This batch of addresses also accepted approximately 1.48CORE(CORE chain gas) sent by 0xcfe2b(unknown CEX) and then use CORE bridge to bridge about 10000USDT** at around 2024-02-18T12:31:51
 
 **Data at a glance**
-![batch2-5](image2/batch5.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/8ffc0e25-4f0d-4132-ab8c-e3fd30b6a568.1716826722079)
 
 ---
 **batch6**
@@ -5244,7 +5241,7 @@ In addition to accepting CELO in batches on the CELO chain on June 10th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 9th. **This batch of addresses also accepted approximately 0.6CELO(0.6$) sent by Binance on the celochain at around Jun-02-2023 10:37:25 PM +UTC**
 
 **Data at a glance**
-![batch2-6](image2/batch6.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/d3220e40-1afd-4e49-8abc-0485f2722d17.1716826734284)
 
 ---
 **batch2-7**
@@ -5275,7 +5272,7 @@ In addition to accepting CELO in batches on the CELO chain on June 9th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 9th. **This batch of addresses also accepted approximately 25FTM(10$), 20MATIC(20$),0.058BNB(20$)(Genesis Transaction) sent by Binance** at around May-01-2023 08:42:29 AM +UTC
 
 **Data at a glance**
-![batch2-7](image2/batch7.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/86621f41-ae27-48a7-ada0-dda19e40044e.1716826746547)
 
 ---
 **batch2-8**
@@ -5311,7 +5308,7 @@ In addition to accepting CELO in batches on the CELO chain on June 9th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 8th. **This batch of addresses also accepted exactly 0.01BNB(2$) sent by OKX at around Sep-10-2023 03:01:37 AM +UTC**
 
 **Data at a glance**
-![batch2-8](image2/batch8.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/bf5ab8aa-c676-41b8-9a76-5a91a0a42ba3.1716826763867)
 
 ---
 **batch2-9**
@@ -5342,7 +5339,7 @@ In addition to accepting CELO in batches on the CELO chain on June 8th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 7th. **This batch of addresses also accepted approximately 0.31AVAX(Genesis Transaction,4.7$) sent by OKX on the avalanche chain and then used 1inch to swap for btcb and bridged it** at around May-20-2023 7:12:44 PM +UTC
 
 **Data at a glance**
-![batch2-9](image2/batch9.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/46886755-8a44-4bb2-a456-8147a6658f69.1716826776913)
 
 ---
 
@@ -5375,7 +5372,7 @@ In addition to accepting CELO in batches on the CELO chain on June 7th. **This b
 
 In addition to accepting CELO in batches on the CELO chain on June 7th. **This batch of addresses also accepted approximately 0.62AVAX(9$) sent by OKX and then use socket to bridge gas(1.6$+0.16$) on the Avalanche chain** at around May-30-2023 1:43:05 PM +UTC
 **Data at a glance**
-![batch2-10](image2/batch10.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/cda66a6f-03db-4ab2-a119-c092822ee344.1716826789188)
 
 ---
 **batch2-11**
@@ -5422,7 +5419,7 @@ In addition to accepting CELO in batches on the CELO chain on June 7th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 7th. **This batch of addresses also accepted approximately 0.23CELO(0.23$) sent by binance on the celochain** at around Jun-01-2023 08:05:45 PM +UTC
 
 **Data at a glance**
-![batch2-11](image2/batch11.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/332e71a6-d61d-4020-99cb-03587cffa21e.1716826805392)
 
 ---
 **batch2-12**
@@ -5454,7 +5451,7 @@ In addition to accepting CELO in batches on the CELO chain on June 7th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 7th. **This batch of addresses also accepted exactly 0.005ETH sent by batchsender on the [arbitrum](https://arbiscan.io/tx/0x073291cdfa3be69640041772939e12204db7d63edce454b11caf87166cc3d7a6)** at Apr-20-2023 02:07:24 PM +UTC. I will submit remain address in the batch send in another report.
 
 **Data at a glance**
-![batch2-12](image2/batch12.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/35162744-4dcf-4fe9-aafb-ddba99670173.1716826820191)
 
 ---
 **batch2-13**
@@ -5487,7 +5484,7 @@ In addition to accepting CELO in batches on the CELO chain on June 7th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 7th. **This batch of addresses also accepted approximately 3MATIC(3$) sent by Bybit on the polygonchain and then used stargate(0.3$) at around May-15-2023 08:59:57 PM +UTC**
 
 **Data at a glance**
-![batch2-13](image2/batch13.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/e02aba9f-ec9e-4a8d-b0dc-b3a800bf7634.1716826831706)
 
 ---
 **batch2-14**
@@ -5523,7 +5520,7 @@ In addition to accepting CELO in batches on the CELO chain on June 7th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 7th. **This batch of addresses also accepted approximately 1AVAX(17$) sent by kucoin at around Apr-24-2023 8:14:44 PM +UTC**
 
 **Data at a glance**
-![batch2-14](image2/batch14.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/ec3f52e1-3d38-4aee-8d9d-290774ba6c37.1716826844347)
 
 ---
 **batch2-15**
@@ -5580,7 +5577,7 @@ In addition to accepting CELO in batches on the CELO chain on June 7th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 6th. **This batch of addresses also accepted approximately 1.02CORE(1$,CORECHAIN GAS) sent by 0xE07F73(UNKNOWN cex) and then used zkbridge at around 2023-07-06T11:48:06**
 
 **Data at a glance**
-![batch2-15](image2/batch15.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/3506ae94-9a0b-49f1-b474-8296def81f85.1716826864035)
 
 ---
 **batch2-16**
@@ -5610,10 +5607,10 @@ In addition to accepting CELO in batches on the CELO chain on June 6th. **This b
 
 **Extra evidence**
 
-In addition to accepting CELO in batches on the CELO chain on June 6th. **This batch of addresses also accepted exactly 0.005ETH sent by batchsender on the Ethereum, [example1](https://etherscan.io/tx/0x7572ef9f4d92fa0da047f639c2ee29427bb6ff05590844f1c4b539673d783141) and [example2](https://etherscan.io/tx/0x4f077a3f818ad23e5a6b164e5ece03e8355855af6a3fb84924dcd0a051bcc75d)** at Nov-05-2022 05:11:47 AM +UTC. I will submit remain address in the batch send in another report.
+In addition to accepting CELO in batches on the CELO chain on June 6th. **This batch of addresses also accepted exactly 0.005ETH sent by batchsender on the Ethereum, https://etherscan.io/tx/0x7572ef9f4d92fa0da047f639c2ee29427bb6ff05590844f1c4b539673d783141 and https://etherscan.io/tx/0x4f077a3f818ad23e5a6b164e5ece03e8355855af6a3fb84924dcd0a051bcc75d** at Nov-05-2022 05:11:47 AM +UTC. I will submit remain address in the batch send in another report.
 
 **Data at a glance**
-![batch2-16](image2/batch16.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/cbc78118-51cf-4e07-8831-467f8f91d2bf.1716826880394)
 
 ---
 **batch2-17**
@@ -5666,8 +5663,7 @@ In addition to accepting CELO in batches on the CELO chain on June 6th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 6th. **This batch of addresses also accepted exactly 0.01ETH sent by OKX on the Ethereum, and then deposited ETH into starknet bridge** on around Jul-10-2023 02:17:59 PM +UTC
 
 **Data at a glance**
-![batch2-17](image2/batch17.png)
-
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/e363de89-cb1f-499a-a6a0-ac824b11e943.1716826917217)
 
 ---
 **batch2-18**
@@ -5714,7 +5710,7 @@ In addition to accepting CELO in batches on the CELO chain on June 6th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 6th. **This batch of addresses also accepted approximately 0.1CELO(0.1$) sent by Binance at around Nov-05-2023 01:20:03 PM +UTC**
 
 **Data at a glance**
-![batch2-18](image2/batch18.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/f49e012b-a831-4c54-8fc7-1c252f3b6dd2.1716826930090)
 
 ---
 **batch2-19**
@@ -5743,7 +5739,7 @@ In addition to accepting CELO in batches on the CELO chain on June 6th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 7th. **This batch of addresses also accepted approximately 0.32METIS(2.5$,METIS CHIAN GAS) sent by OKX on the METISCHIAN at around Jun-13-2023 5:38:36 AM +UTC**
 
 **Data at a glance**
-![batch2-19](image2/batch19.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/c9321c20-5fa4-4c62-b705-be0dc4419e41.1716826943212)
 
 ---
 **batch2-20**
@@ -5773,7 +5769,7 @@ In addition to accepting CELO in batches on the CELO chain on June 7th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 6th. **This batch of addresses also accepted exactly 1ZATA sent by batchsender on the ZETAchian at around Feb 13 2024 14:44:05 PM (+08:00 UTC)**
 
 **Data at a glance**
-![batch2-20](image2/batch20.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/19f1388c-0979-4a73-9589-e1e2416dafaa.1716826955421)
 
 ---
 **batch2-21**
@@ -5813,7 +5809,7 @@ In addition to accepting CELO in batches on the CELO chain on June 6th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 6th. **This batch of addresses also accepted approximately 0.1ETH sent by OKX on the Ethereum(genesis transaction) at around Mar-24-2023 10:50:11 PM +UTC**
 
 **Data at a glance**
-![batch2-21](image2/batch21.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/5d40c152-19c0-4225-9187-0a33ecf4dd98.1716826970254)
 
 ---
 **batch2-22**
@@ -5851,7 +5847,7 @@ In addition to accepting CELO in batches on the CELO chain on June 6th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 6th. **This batch of addresses also accepted approximately 0.05arbETH sent by OKX on the Arbitrum(genesis transaction) at around Apr-28-2023 03:41:15 AM +UTC**
 
 **Data at a glance**
-![batch2-22](image2/batch22.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/3fd42ac9-6acd-4bff-bbe2-bdc370bedd36.1716826989287)
 
 ---
 **batch2-23**
@@ -5922,7 +5918,7 @@ In addition to accepting CELO in batches on the CELO chain on June 6th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 5th. **This batch of addresses also accepted exactly 0.3ETH sent by OKX on the Ethereum(genesis transaction) and then deposited into starknet at around Mar-25-2023 07:00:47 AM +UTC**
 
 **Data at a glance**
-![batch2-23](image2/batch23.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/0b7b5749-4b32-4c7a-ac8b-86455dc79924.1716827001381)
 
 ---
 **batch2-24**
@@ -5951,7 +5947,7 @@ In addition to accepting CELO in batches on the CELO chain on June 5th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 5th. **This batch of addresses also accepted exactly 0.542AVAX(8$,genesis transaction) sent by BInance on the avalanche at around May-23-2023 2:47:25 PM +UTC**
 
 **Data at a glance**
-![batch2-24](image2/batch24.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/22ed42a5-6e10-4353-9474-c98828745119.1716827018538)
 
 ---
 
@@ -5991,7 +5987,7 @@ In addition to accepting CELO in batches on the CELO chain on June 5th. **This b
 In addition to accepting exactly 1CELO in batches on the CELO chain on June 5th. **This batch of addresses also accepted exactly 0.00595opETH sent by Binance on the optimism** at around Jun-04-2023 06:23:23 PM +UTC
 
 **Data at a glance**
-![batch2-25](image2/batch25.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/bff88af2-0832-45e4-bc5a-dd29be882970.1716827032765)
 
 ---
 **batch2-26**
@@ -6028,7 +6024,7 @@ In addition to accepting exactly 1CELO in batches on the CELO chain on June 5th.
 In addition to accepting CELO in batches on the CELO chain on June 4th. **This batch of addresses also accepted approximately 2CELO sent by Binance on the CELOchain, and then used zkbridge to mint NFT** at around Jul-19-2023 02:22:11 PM +UTC
 
 **Data at a glance**
-![batch2-26](image2/batch26.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/403977cb-684e-430d-9355-91279afa14f2.1716827046707)
 
 ---
 **batch2-27**
@@ -6091,7 +6087,7 @@ In addition to accepting CELO in batches on the CELO chain on June 4th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 4th. **This batch of addresses also accepted approximately 18MATIC(18$,genesis transaction) sent by unknownCEX at around May-20-2023 03:03:13 PM +UTC OR May-31-2023 03:13:12 PM +UTC**
 
 **Data at a glance**
-![batch2-27](image2/batch27.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/c5ff4bb5-534c-47ca-9564-72c1e2be69a5.1716827063016)
 
 
 ---
@@ -6137,7 +6133,7 @@ In addition to accepting CELO in batches on the CELO chain on June 4th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 3th. **This batch of addresses also accepted approximately 0.138AVAX(2$) sent by OKX and then used socket to bridge gas(0.5$) at around Jun-3-2023 10:56:15 AM +UTC**
 
 **Data at a glance**
-![batch2-28](image2/batch28.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/5d115a1f-e660-440f-ab71-4e5a1e7a718d.1716827079552)
 
 ---
 **batch2-29**
@@ -6175,7 +6171,7 @@ In addition to accepting CELO in batches on the CELO chain on June 3th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 3th. **This batch of addresses also accepted approximately 0.0047opETH sent by Binance on the optimism at around Jan-14-2023 11:46:54 AM +UTC**
 
 **Data at a glance**
-![batch2-29](image2/batch29.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/7d1ac6ec-b74d-4ffb-b068-e9c16dc98924.1716827096305)
 
 ---
 **batch2-30**
@@ -6211,7 +6207,7 @@ In addition to accepting CELO in batches on the CELO chain on June 3th. **This b
 In addition to accepting CELO in batches on the CELO chain on June 9th. **This batch of addresses also accepted approximately 0.75CORE(1.1$,CORECHAIN GAS) sent by 0xE07F73(UNKNOWN cex) at around 2023-07-04T17:42:33**
 
 **Data at a glance**
-![batch2-30](image2/batch30.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/8095a456-13ef-435b-86ca-2a749846b9a7.1716827110987)
 
 ---
 **batch2-31**
@@ -6283,7 +6279,7 @@ In addition to accepting CELO in batches on the CELO chain on June 9th. **This b
 In addition to accepting exactly 0.999CELO in batches on the CELO chain on June 8th. **This batch of addresses also accepted exactly 0.0122opETH  sent by binance at around Mar-30-2023 03:00:35 AM +UTC**
 
 **Data at a glance**
-![batch2-31](image2/batch31.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/e56ec9e3-a1bf-44df-9d05-a2201d9784fa.1716827126132)
 
 ---
 **batch3-1**
@@ -6319,7 +6315,7 @@ In addition to accepting exactly 0.999CELO in batches on the CELO chain on June 
 In addition to accepting CELO in batches on the CELO chain on June 13th. **This batch of addresses also accepted approximately 0.22AVAX sent by Binance on the Avalanche chain** on around May-25-2023 10:54:16 PM +UTC
 
 **Data at a glance**
-![batch3-1](image3/batch1.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/38ef1fca-26d7-422b-afa3-09de3277b32c.1716827157923)
 
 ---
 **batch3-2**
@@ -6385,7 +6381,7 @@ In addition to accepting CELO in batches on the CELO chain on June 13th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 13th. **This batch of addresses also accepted approximately 0.01ETH sent by OKX on the Ethereum, and then deposited ETH into Zora bridge** on around Aug-25-2023 11:17:35 PM +UTC
 
 **Data at a glance**
-![batch3-2](image3/batch2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/cfd9fa9d-19fe-4d73-be14-304d9b43a583.1716827171780)
 
 ---
 **batch3-3**
@@ -6451,7 +6447,7 @@ In addition to accepting CELO in batches on the CELO chain on June 13th. **This 
 This batch is like batch3-2. In addition to accepting CELO in batches on the CELO chain on June 13th. **This batch of addresses also accepted approximately 0.01ETH sent by OKX on the Ethereum, and then deposited ETH into Zora bridge** on around Aug-25-2023 11:17:35 PM +UTC
 
 **Data at a glance**
-![batch3-3](image3/batch3.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/a4ec5d05-3ee4-4349-bef3-b55eb2deb8c9.1716827186307)
 
 ---
 **batch3-4**
@@ -6524,8 +6520,8 @@ This batch is like batch3-2. In addition to accepting CELO in batches on the CEL
 In addition to accepting CELO in batches on the CELO chain on June 13th. **This batch of addresses also accepted approximately 0.01ETH sent by OKX on the Ethereum on around Aug-25-2023 11:17:35 PM +UTC and and 0.005arbETH on around Jun-20-2023 01:46:18 PM +UTC**
 
 **Data at a glance**
-![batch3-4](image3/batch4-1.png)
-![batch3-4](image3/batch4-2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/7ab1d3dd-75df-4dbe-9a2c-edeef738d373.1716827204794)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/f9475f27-06de-4692-a10b-d04633384f6a.1716827204788)
 
 ---
 **batch3-5**
@@ -6594,8 +6590,8 @@ In addition to accepting CELO in batches on the CELO chain on June 13th. **This 
 batch3-5 is liking batch3-4. In addition to accepting CELO in batches on the CELO chain on June 13th. **This batch of addresses also accepted approximately 0.01ETH sent by OKX on the Ethereum on around Aug-25-2023 11:17:35 PM +UTC and and 0.005arbETH on around Jun-20-2023 01:46:18 PM +UTC**
 
 **Data at a glance**
-![batch3-5](image3/batch5-1.png)
-![batch3-5](image3/batch5-2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/61eefc28-517f-4eac-a3d0-ed0d239b5595.1716827226042)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/42e255ed-38e4-4e1c-9313-bd6049ed21ba.1716827226050)
 
 ---
 **batch3-6**
@@ -6628,7 +6624,7 @@ batch3-5 is liking batch3-4. In addition to accepting CELO in batches on the CEL
 In addition to accepting CELO in batches on the CELO chain on June 12th. **This batch of addresses also accepted approximately 0.004BNB sent by Binance and bridge ~3000USD by CORE bridge on around Feb-29-2024 05:17:36 PM +UTC**
 
 **Data at a glance**
-![batch3-6](image3/batch6.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/079c3aec-3ee4-4a87-a3cf-f60db3f874ee.1716827242451)
 
 ---
 **batch3-7**
@@ -6668,7 +6664,7 @@ In addition to accepting CELO in batches on the CELO chain on June 12th. **This 
 batch3-7 is liking batch3-6. In addition to accepting CELO in batches on the CELO chain on June 12th. **This batch of addresses also accepted approximately 0.004BNB(most) sent by Binance and bridge ~3000USD by CORE bridge on around Feb-29-2024 05:17:36 PM +UTC, all address receive ~0.011BNB from binance on around Jun-19-2023 08:04:01 AM +UTC**
 
 **Data at a glance**
-![batch3-7](image3/batch7.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/0cdc2ee5-bb95-4f95-9f61-8cf065471008.1716827258898)
 
 ---
 **batch3-8**
@@ -6734,8 +6730,8 @@ batch3-7 is liking batch3-6. In addition to accepting CELO in batches on the CEL
 In addition to accepting CELO in batches on the CELO chain on June 12th. **This batch of addresses also accepted approximately 11FTM sent by Binance and use WOO network(<10U) on around May-28-2023 03:42:22 PM +UTC**
 
 **Data at a glance**
-![batch3-8](image3/batch8-1.png)
-![batch3-8](image3/batch8-2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/ffcfb587-66ac-4cd0-9fc0-6305c97c94ac.1716827276904)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/f355b2e8-35b8-4545-a59a-86ff91b3ec37.1716827276913)
 
 ---
 **batch3-9**
@@ -6822,8 +6818,8 @@ In addition to accepting CELO in batches on the CELO chain on June 12th. **This 
 batch3-9 is liking batch3-4 and batch3-5. In addition to accepting CELO in batches on the CELO chain on June 13th. **This batch of addresses also accepted approximately 0.01ETH sent by OKX on the Ethereum on around Aug-25-2023 11:17:35 PM +UTC and and 0.005arbETH on around Jun-20-2023 01:46:18 PM +UTC**
 
 **Data at a glance**
-![batch3-9](image3/batch9-1.png)
-![batch3-9](image3/batch9-2.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/f80b5ecf-8349-4b8a-96b5-f44967cc466d.1716827296131)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/8e5e7860-da6d-4369-9946-b1b2fd4245a6.1716827296140)
 
 ---
 **batch3-10**
@@ -6873,7 +6869,7 @@ batch3-9 is liking batch3-4 and batch3-5. In addition to accepting CELO in batch
 batch3-10 is liking batch3-8. In addition to accepting CELO in batches on the CELO chain on June 12th. **This batch of addresses also accepted approximately 11FTM sent by Binance and use WOO network(<10U) on around May-28-2023 03:42:22 PM +UTC**
 
 **Data at a glance**
-![batch3-10](image3/batch10.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/42597af7-09fd-4cc8-a37d-ef79d290b60e.1716827313132)
 
 ---
 **batch3-11**
@@ -6941,7 +6937,7 @@ batch3-10 is liking batch3-8. In addition to accepting CELO in batches on the CE
 batch3-11 is liking batch3-4, batch3-5 and batch3-9. In addition to accepting CELO in batches on the CELO chain on June 13th. This batch of addresses also accepted approximately 0.01ETH sent by OKX on the Ethereum on around Aug-25-2023 11:17:35 PM +UTC and and 0.005arbETH on around Jun-20-2023 01:46:18 PM +UTC
 
 **Data at a glance**
-![batch3-11](image3/batch11.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/ad59d828-3560-4842-92bc-7a28ae153c06.1716827328735)
 
 ---
 **batch3-12**
@@ -7048,7 +7044,7 @@ batch3-11 is liking batch3-4, batch3-5 and batch3-9. In addition to accepting CE
 batch3-12 is liking batch3-4, batch3-5, batch3-9 and batch3-11. In addition to accepting CELO in batches on the CELO chain on June 13th. **This batch of addresses also accepted approximately 0.01ETH sent by OKX on the Ethereum on around Aug-25-2023 11:17:35 PM +UTC and and 0.005arbETH on around Jun-20-2023 01:46:18 PM +UTC**
 
 **Data at a glance**
-![batch3-12](image3/batch12.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/6f3a3a3c-fb7a-426a-b88e-a710058a432f.1716827343576)
 
 ---
 **batch3-13**
@@ -7077,7 +7073,7 @@ batch3-12 is liking batch3-4, batch3-5, batch3-9 and batch3-11. In addition to a
 In addition to accepting CELO in batches on the CELO chain on June 13th. **This batch of addresses also accepted approximately 0.1CELO(0.1$) sent by Binance on the Celochain, and then use merkly to bridge gas(0.05$)** on around Nov-05-2023 12:49:28 PM +UTC
 
 **Data at a glance**
-![batch3-13](image3/batch13.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/2273ca90-9787-4e76-a53b-18737370f4c5.1716827358729)
 
 ---
 **batch3-14**
@@ -7122,7 +7118,7 @@ In addition to accepting CELO in batches on the CELO chain on June 13th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 11th. **This batch of addresses also accepted approximately 0.75CELO sent by Binance Sep-09-2023 06:17:31 PM +UTC or 0.38CELO on around Jul-21-2023 05:12:21 PM +UTC**
 
 **Data at a glance**
-![batch3-14](image3/batch14.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/35a1809a-873f-4b52-84e6-e16e7e0b8f7c.1716827373765)
 
 ---
 **batch3-15**
@@ -7155,7 +7151,7 @@ In addition to accepting CELO in batches on the CELO chain on June 11th. **This 
 batch3-15 is liking batch3-14. In addition to accepting CELO in batches on the CELO chain on June 11th. **This batch of addresses also accepted approximately 0.75CELO sent by Binance Sep-09-2023 06:17:31 PM +UTC or 0.38CELO on around Jul-21-2023 05:12:21 PM +UTC**
 
 **Data at a glance**
-![batch3-15](image3/batch15.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/512e30c2-6207-4229-a046-5315d159c8cc.1716827389724)
 
 ---
 **batch3-16**
@@ -7216,7 +7212,7 @@ batch3-15 is liking batch3-14. In addition to accepting CELO in batches on the C
 In addition to accepting CELO in batches on the CELO chain on June 12th. **This batch of addresses also accepted approximately 0.004arbETH sent by OKX and use stargate(~5USD) on around May-14-2023 03:47:47 AM +UTC**
 
 **Data at a glance**
-![batch3-16](image3/batch16.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/9d3b6dd3-d364-4f66-ae82-6da537084099.1716827401486)
 
 ---
 **batch3-17**
@@ -7277,7 +7273,7 @@ In addition to accepting CELO in batches on the CELO chain on June 12th. **This 
 batch3-17 is liking batch3-16. In addition to accepting CELO in batches on the CELO chain on June 12th. **This batch of addresses also accepted approximately 0.004arbETH sent by OKX and use stargate(~5USD) on around May-14-2023 03:47:47 AM +UTC**
 
 **Data at a glance**
-![batch3-17](image3/batch17.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/0c7ed7ed-9be8-4850-a313-3476b3a0d117.1716827416718)
 
 ---
 **batch3-18**
@@ -7310,7 +7306,7 @@ batch3-17 is liking batch3-16. In addition to accepting CELO in batches on the C
 In addition to accepting CELO in batches on the CELO chain on June 12th. **This batch of addresses also accepted approximately 1.05CELO sent by Binance and use merkly to bridge gas(3*0.02$) on around Nov-18-2023 04:03:47 PM +UTC**
 
 **Data at a glance**
-![batch3-18](image3/batch18.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/e5239c72-1794-4d73-bc43-3992ea3ec563.1716827434127)
 
 ---
 **batch3-19**
@@ -7341,7 +7337,7 @@ In addition to accepting CELO in batches on the CELO chain on June 12th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 12th. **This batch of addresses also accepted approximately 0.12CELO(0.1$) sent by Binance on around Dec-23-2023 09:24:59 PM +UTC and use merkly to bridge gas(0.05$)**
 
 **Data at a glance**
-![batch3-19](image3/batch19.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/819cb72b-dfdd-42eb-a5dc-21f86f1e82cf.1716827446889)
 
 ---
 **batch3-20**
@@ -7379,7 +7375,7 @@ In addition to accepting CELO in batches on the CELO chain on June 12th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 14th. **This batch of addresses also accepted exactly 0.1avax sent by Binance and use stargate to bridge stg on around Jun-19-2023 01:51:00 PM +UTC**
 
 **Data at a glance**
-![batch3-20](image3/batch20.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/90b6d309-48ad-488f-92f2-8facbb854c06.1716827461061)
 
 ---
 **batch3-21**
@@ -7441,7 +7437,7 @@ In addition to accepting CELO in batches on the CELO chain on June 14th. **This 
 In addition to accepting **exactly**1CELO in batches on the CELO chain on June 14th. This batch of addresses also accepted **exactly** 0.0034BNB(1$) sent by Binance on the BSC on around Feb-01-2024 01:05:16 PM +UTC
 
 **Data at a glance**
-![batch3-21](image3/batch21.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/a9d4b358-846f-4ec9-9b41-632cfec85fed.1716827585727)
 
 ---
 **batch3-22**
@@ -7483,7 +7479,7 @@ In addition to accepting **exactly**1CELO in batches on the CELO chain on June 1
 In addition to accepting CELO in batches on the CELO chain on June 14th. **This batch of addresses also accepted approximately 19ARB(20$) sent by Binance on the arbtrum on around Apr-06-2023 12:48:58 AM +UTC and delegate after about 2days**
 
 **Data at a glance**
-![batch3-22](image3/batch22.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/004831e6-23ca-475c-8b99-8229170711cd.1716827602946)
 
 ---
 **batch3-23**
@@ -7514,7 +7510,7 @@ In addition to accepting CELO in batches on the CELO chain on June 14th. **This 
 Batch3-23 and Batch3-22 should belong to the same cluster, but have slightly different operations. In addition to accepting CELO in batches on the CELO chain on June 14th, **This batch of addresses also accepted approximately 0.23CELO(0.2$) sent by Binance on the Celochain, and then use merkly to mint 1 wmerk** on around Jan-29-2024 05:15:09 PM +UTC
 
 **Data at a glance**
-![batch3-23](image3/batch23.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/5c56b316-ccfb-4306-b4ad-0fccab24b47c.1716827616647)
 
 ---
 **batch3-24**
@@ -7617,7 +7613,7 @@ Batch3-23 and Batch3-22 should belong to the same cluster, but have slightly dif
 In addition to accepting CELO in batches on the CELO chain on June 14th. **This batch of addresses also accepted approximately 1.8ONE(0.04$,harmony chain gas token) sent by 0x42347(unknown CEX) on around 04/17/2024, 05:32:16**
 
 **Data at a glance**
-![batch3-24](image3/batch24.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/886f2ebe-b43e-4f00-a4ff-e20bf80f6fdc.1716827630277)
 
 ---
 **batch3-25**
@@ -7670,7 +7666,7 @@ In addition to accepting CELO in batches on the CELO chain on June 14th. **This 
 batch3-25 is liking batch3-24. In addition to accepting CELO in batches on the CELO chain on June 14th. **This batch of addresses also accepted approximately 1.8ONE(0.04$,harmony chain gas token) sent by 0x42347(unknown CEX) on around 04/17/2024, 05:32:16**
 
 **Data at a glance**
-![batch3-25](image3/batch25.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/2d900dfe-fc06-4fb5-8267-b3c3363bc8e4.1716827649173)
 
 ---
 **batch3-26**
@@ -7739,7 +7735,7 @@ batch3-25 is liking batch3-24. In addition to accepting CELO in batches on the C
 batch3-26 is liking batch3-24 and batch3-25. In addition to accepting CELO in batches on the CELO chain on June 14th. **This batch of addresses also accepted approximately 1.8ONE(0.04$,harmony chain gas token) sent by 0x42347(unknown CEX) on around 04/17/2024, 05:32:16**
 
 **Data at a glance**
-![batch3-26](image3/batch26.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/21a93b3c-fc41-49a4-97a8-f75b2c381add.1716827662045)
 
 ---
 **batch3-27**
@@ -7848,7 +7844,7 @@ batch3-26 is liking batch3-24 and batch3-25. In addition to accepting CELO in ba
 batch3-27 is liking batch3-24, batch3-25 and batch3-26. In addition to accepting CELO in batches on the CELO chain on June 14th. **This batch of addresses also accepted approximately 1.8ONE(0.04$,harmony chain gas token) sent by 0x42347(unknown CEX) on around 04/17/2024, 05:32:16**
 
 **Data at a glance**
-![batch3-27](image3/batch27.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/7fdfc2c0-4b63-4480-977e-75227af30caf.1716827677288)
 
 ---
 **batch3-28**
@@ -7881,7 +7877,7 @@ batch3-27 is liking batch3-24, batch3-25 and batch3-26. In addition to accepting
 In addition to accepting CELO in batches on the CELO chain on June 15th. **This batch of addresses also accepted approximately 1.8ONE(0.04$,harmony chain gas token) sent by 0x42347(unknown CEX) on around 12/28/2023, 04:58:56**
 
 **Data at a glance**
-![batch3-28](image3/batch28.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/851c305f-7c59-4b42-9781-205da2ededb7.1716827691362)
 
 ---
 **batch3-29**
@@ -7930,7 +7926,7 @@ In addition to accepting CELO in batches on the CELO chain on June 15th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 15th. **This batch of addresses also accepted approximately 0.01BNB(2.5$) sent by Binance on around Jun-14-2023 08:14:54 PM +UTC and then use bungee to bridge gas(0.5$)**
 
 **Data at a glance**
-![batch3-29](image3/batch29.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/b22cb966-9790-4056-9841-b0c3a2db28b6.1716827705460)
 
 ---
 **batch3-30**
@@ -7967,7 +7963,7 @@ In addition to accepting CELO in batches on the CELO chain on June 15th. **This 
 In addition to accepting **excatly 1.099CELO** in batches on the CELO chain on June 15th. **This batch of addresses also accepted exactly 4.999CELO sent by Binance and use ANGLE on around Jun-30-2023 07:12:29 AM +UTC**
 
 **Data at a glance**
-![batch3-30](image3/batch30.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/d640a889-588d-41dc-8399-1109afea4954.1716827722901)
 
 ---
 
@@ -8031,7 +8027,7 @@ In addition to accepting **excatly 1.099CELO** in batches on the CELO chain on J
 In addition to accepting ~1CELO in batches on the CELO chain on June 15th. **This batch of addresses also accepted ~1.91CORE(3.5$) sent by 0xcfe2b85(unknown CEX) on the Corechain on around 2024-02-21T15:54:17 or ~1.5CORE(3$) on around 2024-02-18T14:47:36. After receive gas, this batch used core bridge to bridge about 2000USDT.**
 
 **Data at a glance**
-![batch3-31](image3/batch31.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/fcdac129-1703-4e2f-b923-35396a65558e.1716827737700)
 
 ---
 **batch3-32**
@@ -8080,7 +8076,7 @@ In addition to accepting ~1CELO in batches on the CELO chain on June 15th. **Thi
 In addition to accepting CELO in batches on the CELO chain on June 15th. **The owner of this cluster has a very shrewd differentiation operation. Among them, addresses 1-15 withdrow exactly 0.0095BNB(3$) from binance at aorund Feb-28-2023 02:53:29 AM +UTC; addresses 16-23 withdrow exactly 0.0095BNB(3$) from binance at aorund Mar-01-2023 06:28:37 AM +UTC, and the remaining addresses withdrow around 0.016BNB(5$) at aorund May-04-2023 10:34:05 AM +UTC**
 
 **Data at a glance**
-![batch3-32](image3/batch32.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/25a60072-fc96-47d0-9959-3ef112ddea2d.1716827752349)
 
 ---
 **batch3-33**
@@ -8138,7 +8134,7 @@ In addition to accepting CELO in batches on the CELO chain on June 15th. **The o
 In addition to accepting CELO in batches on the CELO chain on June 15th, **This batch of addresses also accepted approximately 0.007arbETH(12$) sent by OKX on the arbitrumchain, and then use bungee and apto bridge to bridge gas** on around Jun-23-2023 08:25:49 AM +UTC
 
 **Data at a glance**
-![batch3-33](image3/batch33.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/8d0638a7-7b06-4b6f-823a-58b7accf372a.1716827767652)
 
 ---
 **batch3-34**
@@ -8160,7 +8156,7 @@ In addition to accepting CELO in batches on the CELO chain on June 15th, **This 
 In addition to accepting CELO in batches on the CELO chain on June 15th. **This batch of addresses also accepted approximately 0.011ETH(20$,mainnet) sent by OKX and then used bungee(0.3$) at around Aug-04-2023 06:30:35 PM +UTC**
 
 **Data at a glance**
-![batch3-34](image3/batch34.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/df00d052-0cc7-4aab-b5f1-75ed921638ff.1716827781953)
 
 ---
 **batch3-35**
@@ -8185,7 +8181,7 @@ In addition to accepting CELO in batches on the CELO chain on June 15th. **This 
 batch3-35 is liking batch3-32. In addition to accepting CELO in batches on the CELO chain on June 14th. **This batch of addresses withdrow exactly 0.0095BNB(3$) from binance at aorund Feb-28-2023 02:53:29 AM +UTC**
 
 **Data at a glance**
-![batch3-35](image3/batch35.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/14667eca-d644-477b-9fd2-fe6700abdfbe.1716827794651)
 
 ---
 **batch3-36**
@@ -8208,7 +8204,7 @@ batch3-35 is liking batch3-32. In addition to accepting CELO in batches on the C
 In addition to accepting CELO in batches on the CELO chain on June 15th. **This batch of addresses also accepted approximately 19MATIC(19$,polygon chian) sent by binance at around Apr-30-2023 07:54:11 PM +UTC**
 
 **Data at a glance**
-![batch3-36](image3/batch36.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/27d6a271-b325-4d8a-90aa-12ae01e84ca7.1716827807873)
 
 ---
 **batch3-37**
@@ -8262,7 +8258,7 @@ In addition to accepting CELO in batches on the CELO chain on June 15th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 15th. **This batch of addresses also accepted approximately 0.1185CELO(0.11$,CELOchian) sent by Binance and then used merkly to bridge gas at around Dec-24-2023 08:02:01 PM +UTC**
 
 **Data at a glance**
-![batch3-37](image3/batch37.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/9554f7e7-6c75-49b2-9cf3-2151360f65f6.1716827822183)
 
 ---
 **batch3-38**
@@ -8292,7 +8288,7 @@ In addition to accepting CELO in batches on the CELO chain on June 15th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 15th. **This batch of addresses also accepted approximately 3CORE(5.5$, CORE chain gas token) sent by 0xcfe2b(unknown CEX) and then used core bridge to bridge USDT at around 2024-02-29T19:00:58**
 
 **Data at a glance**
-![batch3-38](image3/batch38.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/163ed773-8f08-4a3c-af4b-1ccfbbec4edf.1716827836490)
 
 ---
 **batch3-39**
@@ -8319,7 +8315,7 @@ In addition to accepting CELO in batches on the CELO chain on June 15th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 15th. **This batch of addresses also accepted approximately 0.5CELO(0.5$) sent by Binance at around Jan-02-2024 10:10:33 AM +UTC**
 
 **Data at a glance**
-![batch3-39](image3/batch39.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/8331ba0e-da29-491c-8034-8995803de560.1716827850458)
 
 ---
 **batch3-40**
@@ -8347,7 +8343,7 @@ In addition to accepting CELO in batches on the CELO chain on June 15th. **This 
 In addition to accepting CELO in batches on the CELO chain on June 15th, This batch of addresses also accepted approximately 6.6ONE(0.14$,harmony chain gas token) sent by 0x42347(unknown CEX) and then bridge 0.02$ gas on around 04/01/2024, 04:01:05
 
 **Data at a glance**
-![batch3-40](image3/batch40.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/10ae4c7e-389f-4d8b-a83e-f8cc18301997.1716827862363)
 
 # Reward Address (If Eligible)
 0x582b8cb4653b933157c2242e594638e62f373060
@@ -8412,7 +8408,7 @@ df.to_csv('final_output',index=False)
 
 The z-axis is the multichainwallet balance, and all axis data have been standardized.
 
-![affinity propagation](affinity_propagation.png)
+![image](https://s3.us-east-1.amazonaws.com/assets.commonwealth.im/4c6e98c4-f1b1-4ef1-b3b9-69ee65f17aa7.1716827890248)
 
 **Dune SQL**
 ```SQL
