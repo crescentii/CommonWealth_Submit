@@ -1,6 +1,6 @@
 # CommonWealth_Submit
 
-reward address:0xfa8d0fc1c3fc17396ace8758079b42ec2dc7bd79
+reward address: 0xfa8d0fc1c3fc17396ace8758079b42ec2dc7bd79
 
 CommonWealth report url:
 
